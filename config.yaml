@@ -8,7 +8,7 @@ feed:
   description: "New Portland rentals (2bd+, houses/townhomes, $1000-2000, 1000+ sqft, cat-friendly) from every source."
   # After you enable GitHub Pages, set this to your real feed URL:
   #   https://<your-github-username>.github.io/<repo-name>/feed.xml
-  link: "https://YOUR_USERNAME.github.io/housing-feed/feed.xml"
+  link: "https://atomgraze-sys.github.io/housing-feed/feed.xml"
   max_items: 200        # how many listings the FULL feed holds
   retention_days: 30    # drop listings older than this
   digest_limit: 20      # email only the N cheapest NEW listings per run (0 = all). Feed stays full.
