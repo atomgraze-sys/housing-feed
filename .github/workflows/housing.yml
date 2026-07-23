@@ -1,0 +1,44 @@
+name: housing-feed
+
+on:
+  schedule:
+    # A few times a day (UTC). GitHub delays scheduled runs 5–30 min under load —
+    # that's normal. Times below ≈ 7a / 12p / 5p / 9p US Central.
+    - cron: "0 12,17,22 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}   # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write          # needed to commit feed.xml back to the repo
+
+concurrency:
+  group: housing-feed
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Aggregate listings
+        env:
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+        run: python aggregate.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "housing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed.xml listings.json last_run.txt
+          git commit -m "Update feed $(date -u +%FT%TZ)" || echo "no changes"
+          git push
