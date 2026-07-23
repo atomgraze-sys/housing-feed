@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Housing Feed (not yet populated)</title>
+    <description>Run the workflow once to generate real listings.</description>
+    <link>https://YOUR_USERNAME.github.io/housing-feed/feed.xml</link>
+  </channel>
+</rss>

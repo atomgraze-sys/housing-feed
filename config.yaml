@@ -1,0 +1,74 @@
+# ======================================================================
+# config.yaml — everything you can tune lives here. No code changes needed.
+# Give Adam-style specs to the "criteria" block; the engine filters to them.
+# ======================================================================
+
+feed:
+  title: "Adam's Portland Housing Feed"
+  description: "New Portland rentals (2bd+, houses/townhomes, $1000-2000, 1000+ sqft, cat-friendly) from every source."
+  # After you enable GitHub Pages, set this to your real feed URL:
+  #   https://<your-github-username>.github.io/<repo-name>/feed.xml
+  link: "https://YOUR_USERNAME.github.io/housing-feed/feed.xml"
+  max_items: 200        # how many listings the feed holds
+  retention_days: 30    # drop listings older than this
+
+# ---- YOUR HOUSING SPECIFICATIONS (Adam — Portland, OR inner NE/SE) ----
+criteria:
+  city_terms: ["Portland", "97212", "97214", "97232", "97215",
+               "Irvington", "Kerns", "Buckman", "Sunnyside", "Richmond",
+               "Hosford-Abernethy", "Grant Park", "Laurelhurst"]
+  strict_location: false     # saved searches already scope to your ZIPs; keep lenient
+  require_quadrants: ["NE", "SE"]   # keep only NE/SE Portland; drop SW/NW. [] = off.
+                                    # Listings with no quadrant mentioned are kept (lenient).
+  min_price: 1000            # floor to filter out scam/too-good-to-be-true posts
+  max_price: 2000
+  min_beds: 2
+  min_baths: 1
+  min_sqft: 1000             # only drops listings that explicitly state <1000 sqft
+  require_keywords: []       # left empty on purpose — see note below
+  any_keywords: []
+  # W/D and cat-friendly are enforced on each site's SAVED SEARCH (reliable),
+  # not here — alert emails often omit those words, and requiring them would
+  # wrongly hide good listings. These excludes push out big/new complexes:
+  exclude_keywords:
+    - "income restricted"
+    - "senior"
+    - "55+"
+    - "resort-style"
+    - "resort style"
+    - "fitness center"
+    - "clubhouse"
+    - "new construction"
+    - "newly built"
+    - "newly constructed"
+    - "new development"
+
+# ---- SOURCES ----
+imap:
+  host: "imap.gmail.com"
+  folder: "housing"          # reads a Gmail label named exactly "housing" (case-sensitive)
+
+sources:
+  craigslist:
+    # Craigslist's native RSS is blocked (HTTP 403) from datacenter IPs like GitHub's,
+    # so leave this OFF for the cloud setup and use Craigslist EMAIL ALERTS instead
+    # (they're free — see README step 2). Flip to true ONLY if you self-host on your
+    # own Mac (a residential IP), where the RSS feeds below will work.
+    enabled: false
+    feeds:
+      # - "https://austin.craigslist.org/search/apa?format=rss&min_price=800&max_price=3000&min_bedrooms=1"
+
+# Which listing-detail URLs to recognize inside alert emails. The parser keeps only
+# links matching these patterns, so unrelated mail is ignored automatically.
+listing_url_patterns:
+  - "zillow\\.com/(homedetails|b|apartments|community)/"
+  - "apartments\\.com/[^\"']+/[a-z0-9]"
+  - "zumper\\.com/(apartments-for-rent|listing|building)/"
+  - "hotpads\\.com/"
+  - "apartmentlist\\.com/"
+  - "realtor\\.com/realestateandhomes-detail/"
+  - "redfin\\.com/.+/home/"
+  - "trulia\\.com/(p|building|home)/"
+  - "rent\\.com/"
+  - "padmapper\\.com/"
+  - "craigslist\\.org/[a-z]{3,4}/d/"   # Craigslist listing-detail links in alert emails
