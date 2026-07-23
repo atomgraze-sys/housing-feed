@@ -330,7 +330,7 @@ def build_feed(store, cfg):
 
 
 # ---------------- digest email ----------------
-def send_digest(new_items, cfg, total=None):
+def send_digest(new_items, cfg, total=None, snapshot=False):
     user = os.environ.get("IMAP_USER")
     pw = os.environ.get("IMAP_PASSWORD")
     to = os.environ.get("SMTP_TO") or user
@@ -344,7 +344,10 @@ def send_digest(new_items, cfg, total=None):
             + "</li>"
         )
     # If we're showing a capped slice of a larger batch, say so.
-    if total and total > len(new_items):
+    if snapshot:
+        heading = f"Current listings — {len(new_items)} matching your criteria"
+        subject = f"[Housing] Current snapshot: {len(new_items)} listings"
+    elif total and total > len(new_items):
         heading = f"Cheapest {len(new_items)} of {total} new listings"
         subject = f"[Housing] {total} new — cheapest {len(new_items)}"
     else:
@@ -388,10 +391,32 @@ def prune(store, cfg):
     return keep
 
 
+def snapshot_digest(store, cfg):
+    """On-demand: email ALL current listings already in the store, cheapest first.
+    Read-only — does NOT ingest email, mark anything read, or modify the feed/store,
+    so it never interferes with the regular new-listings digest."""
+    items = list(store.values())
+    fcfg = cfg.get("feed", {})
+    if fcfg.get("digest_sort", "cheapest") == "cheapest":
+        items.sort(key=lambda L: (L.get("price") is None, L.get("price") or 0))
+    else:
+        items.sort(key=lambda L: L.get("first_seen", ""), reverse=True)
+    limit = int(fcfg.get("current_digest_limit", 0) or 0)
+    if limit:
+        items = items[:limit]
+    print(f"== snapshot: emailing {len(items)} current listing(s)")
+    send_digest(items, cfg, snapshot=True)
+    return 0
+
+
 def main():
     cfg = load_yaml(CONFIG_PATH)
     crit = cfg.get("criteria", {})
     store = load_store()
+
+    # Snapshot mode (second workflow): email everything currently in the store, no ingest.
+    if os.environ.get("DIGEST_SCOPE", "new").lower() == "current":
+        return snapshot_digest(store, cfg)
 
     candidates = []
     candidates += fetch_email_listings(cfg)
