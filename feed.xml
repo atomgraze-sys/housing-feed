@@ -2,13 +2,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Adam's Portland Housing Feed</title>
-    <link>https://atomgraze-sys.github.io/housing-feed/feed.xml</link>
+    <link>https://YOUR_USERNAME.github.io/housing-feed/feed.xml</link>
     <description>New Portland rentals (2bd+, houses/townhomes, $1000-2000, 1000+ sqft, cat-friendly) from every source.</description>
-    <atom:link href="https://atomgraze-sys.github.io/housing-feed/feed.xml" rel="self"/>
+    <atom:link href="https://YOUR_USERNAME.github.io/housing-feed/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:21:50 +0000</lastBuildDate>
     <item>
       <title>$1,982/mo · 2bd · 2ba — Rent a great 2 bed / 2 bath! $500 off the next two apps! [craigslist.org]</title>
       <link>https://www.craigslist.org/view/d/portland-rent-great-bed-bath-500-off/7oUufBzyGmvygfEGb8kVNW</link>
