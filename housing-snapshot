@@ -1,0 +1,31 @@
+name: housing-snapshot
+
+# On-demand only: emails a digest of ALL current listings in the feed (not just new
+# ones). Read-only — it does not ingest email, mark anything read, or change the feed,
+# so it never interferes with the regular "housing-feed" new-listings digest.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Email current-listings snapshot
+        env:
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+          DIGEST_SCOPE: current
+        run: python aggregate.py
