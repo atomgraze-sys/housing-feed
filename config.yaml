@@ -13,6 +13,7 @@ feed:
   retention_days: 30    # drop listings older than this
   digest_limit: 20      # email only the N cheapest NEW listings per run (0 = all). Feed stays full.
   digest_sort: "cheapest"   # "cheapest" (price low->high) or "newest"
+  current_digest_limit: 0   # snapshot workflow: max CURRENT listings to email (0 = all)
 
 # ---- YOUR HOUSING SPECIFICATIONS (Adam — Portland, OR inner NE/SE) ----
 criteria:
