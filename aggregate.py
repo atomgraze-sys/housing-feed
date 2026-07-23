@@ -194,6 +194,26 @@ def detect_quadrants(text):
     return found
 
 
+# Numbered-avenue detection (east–west position on Portland's grid). We only accept a
+# number when it carries an ordinal ("55th") or is followed by "Ave", so house numbers
+# and "900 sqft" don't get mistaken for an avenue.
+_AVE_DIR_RE = re.compile(r"(?:NE|NW|SE|SW)\s+(\d{1,3})(?:st|nd|rd|th)\b", re.I)
+_AVE_WORD_RE = re.compile(r"\b(\d{1,3})(?:st|nd|rd|th)?\s+(?:ave\b|avenue\b)", re.I)
+
+
+def parse_avenues(text):
+    """Return every numbered avenue mentioned, e.g. 'SE 55th Ave' -> [55]."""
+    nums = []
+    if not text:
+        return nums
+    for m in _AVE_DIR_RE.findall(text) + _AVE_WORD_RE.findall(text):
+        try:
+            nums.append(int(m))
+        except (TypeError, ValueError):
+            pass
+    return sorted(set(nums))
+
+
 def passes(listing, c):
     p = listing.get("price")
     if p is not None:
@@ -232,17 +252,26 @@ def passes(listing, c):
         if not any(t.lower() in hay for t in ct):
             return False
 
+    # Original-case text for address-level checks (quadrant + avenue).
+    raw = " ".join(
+        str(listing.get(k, "")) for k in ("title", "location", "description", "url")
+    )
+
     # Quadrant filter: keep only listings in an allowed Portland quadrant (e.g. NE/SE).
-    # Detected on the ORIGINAL-case text so "SE"/"NE" address prefixes are matched
-    # precisely. Listings that mention no quadrant at all are kept (lenient).
+    # Listings that mention no quadrant at all are kept (lenient).
     aq = c.get("require_quadrants") or []
     if aq:
         allowed = {x.upper() for x in aq}
-        raw = " ".join(
-            str(listing.get(k, "")) for k in ("title", "location", "description", "url")
-        )
         quads = detect_quadrants(raw)
         if quads and not (quads & allowed):
+            return False
+
+    # Avenue cap: drop listings east of a max numbered avenue (e.g. > SE/NE 55th).
+    # Lenient — if no avenue is detectable in the text, the listing is kept.
+    mav = c.get("max_avenue")
+    if mav:
+        aves = parse_avenues(raw)
+        if aves and max(aves) > mav:
             return False
 
     return True
@@ -301,7 +330,7 @@ def build_feed(store, cfg):
 
 
 # ---------------- digest email ----------------
-def send_digest(new_items, cfg):
+def send_digest(new_items, cfg, total=None):
     user = os.environ.get("IMAP_USER")
     pw = os.environ.get("IMAP_PASSWORD")
     to = os.environ.get("SMTP_TO") or user
@@ -314,17 +343,24 @@ def send_digest(new_items, cfg):
             + (f' <span style="color:#666">— {L.get("location")}</span>' if L.get("location") else "")
             + "</li>"
         )
+    # If we're showing a capped slice of a larger batch, say so.
+    if total and total > len(new_items):
+        heading = f"Cheapest {len(new_items)} of {total} new listings"
+        subject = f"[Housing] {total} new — cheapest {len(new_items)}"
+    else:
+        heading = f"{len(new_items)} new listing(s)"
+        subject = f"[Housing] {len(new_items)} new listing(s)"
     feed_link = cfg.get("feed", {}).get("link", "")
     html = (
-        f"<h2>{len(new_items)} new listing(s)</h2>"
+        f"<h2>{heading}</h2>"
         f"<ul>{''.join(rows)}</ul>"
         + (f'<p>Full feed: <a href="{feed_link}">{feed_link}</a></p>' if feed_link else "")
     )
     msg = EmailMessage()
-    msg["Subject"] = f"[Housing] {len(new_items)} new listing(s)"
+    msg["Subject"] = subject
     msg["From"] = user
     msg["To"] = to
-    msg.set_content(f"{len(new_items)} new listings. Open in an HTML-capable client.")
+    msg.set_content(f"{heading}. Open in an HTML-capable client.")
     msg.add_alternative(html, subtype="html")
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
@@ -376,7 +412,19 @@ def main():
     store = prune(store, cfg)
     save_store(store)
     build_feed(store, cfg)
-    send_digest(new_items, cfg)
+
+    # Digest = a short, curated slice of THIS run's new listings (the full feed keeps
+    # everything). Default: the cheapest 20, price low -> high.
+    fcfg = cfg.get("feed", {})
+    if fcfg.get("digest_sort", "cheapest") == "cheapest":
+        digest_items = sorted(
+            new_items, key=lambda L: (L.get("price") is None, L.get("price") or 0)
+        )
+    else:  # "newest"
+        digest_items = list(new_items)
+    limit = int(fcfg.get("digest_limit", 0) or 0)
+    capped = digest_items[:limit] if limit else digest_items
+    send_digest(capped, cfg, total=len(new_items))
 
     with open(HEARTBEAT_PATH, "w", encoding="utf-8") as f:
         f.write(now().isoformat() + "\n")  # guarantees a commit -> keeps Actions alive
