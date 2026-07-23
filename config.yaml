@@ -8,9 +8,11 @@ feed:
   description: "New Portland rentals (2bd+, houses/townhomes, $1000-2000, 1000+ sqft, cat-friendly) from every source."
   # After you enable GitHub Pages, set this to your real feed URL:
   #   https://<your-github-username>.github.io/<repo-name>/feed.xml
-  link: "https://atomgraze-sys.github.io/housing-feed/feed.xml"
-  max_items: 200        # how many listings the feed holds
+  link: "https://YOUR_USERNAME.github.io/housing-feed/feed.xml"
+  max_items: 200        # how many listings the FULL feed holds
   retention_days: 30    # drop listings older than this
+  digest_limit: 20      # email only the N cheapest NEW listings per run (0 = all). Feed stays full.
+  digest_sort: "cheapest"   # "cheapest" (price low->high) or "newest"
 
 # ---- YOUR HOUSING SPECIFICATIONS (Adam — Portland, OR inner NE/SE) ----
 criteria:
@@ -20,6 +22,8 @@ criteria:
   strict_location: false     # saved searches already scope to your ZIPs; keep lenient
   require_quadrants: ["NE", "SE"]   # keep only NE/SE Portland; drop SW/NW. [] = off.
                                     # Listings with no quadrant mentioned are kept (lenient).
+  max_avenue: 55             # drop anything east of NE/SE 55th (e.g. SE 82nd). null = off.
+                             # Lenient: listings with no avenue in the text are kept.
   min_price: 1000            # floor to filter out scam/too-good-to-be-true posts
   max_price: 2000
   min_beds: 2
@@ -42,6 +46,15 @@ criteria:
     - "newly built"
     - "newly constructed"
     - "new development"
+    # --- large apartment-complex signals (rarely appear in house/duplex listings) ---
+    - "apartment home"        # matches "apartment homes" too
+    - "apartment community"
+    - "now leasing"
+    - "leasing office"
+    - "leasing center"
+    - "floor plan"            # matches "floor plans"
+    - "floorplan"
+    - "amenities"
 
 # ---- SOURCES ----
 imap:
