@@ -1,8 +1,223 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Housing Feed (not yet populated)</title>
-    <description>Run the workflow once to generate real listings.</description>
-    <link>https://YOUR_USERNAME.github.io/housing-feed/feed.xml</link>
+    <title>Adam's Portland Housing Feed</title>
+    <link>https://atomgraze-sys.github.io/housing-feed/feed.xml</link>
+    <description>New Portland rentals (2bd+, houses/townhomes, $1000-2000, 1000+ sqft, cat-friendly) from every source.</description>
+    <atom:link href="https://atomgraze-sys.github.io/housing-feed/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Jul 2026 17:54:01 +0000</lastBuildDate>
+    <item>
+      <title>$1,982/mo · 2bd · 2ba — Rent a great 2 bed / 2 bath! $500 off the next two apps! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-rent-great-bed-bath-500-off/7oUufBzyGmvygfEGb8kVNW</link>
+      <description>$1,982 - 2br - 985ft 2 - Rent a great 2 bed / 2 bath! $500 off the next two apps! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-rent-great-bed-bath-500-off/7oUufBzyGmvygfEGb8kVNW"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">7c8d846298de92f5</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,850/mo · 2bd — Tour This Spectacular 2BR Today @ B StreetâAvailable Now! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-tour-this-spectacular-2br/umZqNgitzomjmyddsTz6EC</link>
+      <description>$1,850 - 2br - Tour This Spectacular 2BR Today @ B StreetâAvailable Now! (NE Portland, E Burnside, Laurelhurst, Kerns)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-tour-this-spectacular-2br/umZqNgitzomjmyddsTz6EC"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">33e77fa2668782de</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,995/mo · 2bd — Maintenance on site, Full Size Washer and Dryer, Large Windows [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-maintenance-on-site-full-size/gExz6XoyDkjvdVkWn7xFSJ</link>
+      <description>$1,995 - 2br - 1056ft 2 - Maintenance on site, Full Size Washer and Dryer, Large Windows (North Tabor)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-maintenance-on-site-full-size/gExz6XoyDkjvdVkWn7xFSJ"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">84f4e35d28643fcc</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,982/mo · 2bd — Live car-free in a walkable area! $500 off the next two apps! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-live-car-free-in-walkable-area/cSswAKWebxGiafpGY1bgBL</link>
+      <description>$1,982 - 2br - 985ft 2 - Live car-free in a walkable area! $500 off the next two apps! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-live-car-free-in-walkable-area/cSswAKWebxGiafpGY1bgBL"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">32f0cbc43d3ad329</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,982/mo · 2bd — Close to mass transit and bus lines! $500 off the next two apps! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-close-to-mass-transit-and-bus/kmk7pP96qPtHsfGa9cMekE</link>
+      <description>$1,982 - 2br - 985ft 2 - Close to mass transit and bus lines! $500 off the next two apps! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-close-to-mass-transit-and-bus/kmk7pP96qPtHsfGa9cMekE"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d8821a238fac339</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,982/mo · 2bd — Massive apartments! $500 off the next two apps! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-massive-apartments-500-off-the/eC6kwWBiagVEyLRHEb3GL1</link>
+      <description>$1,982 - 2br - 985ft 2 - Massive apartments! $500 off the next two apps! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-massive-apartments-500-off-the/eC6kwWBiagVEyLRHEb3GL1"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">13333cbc3d353e9b</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,750/mo · 2bd — 1mo Rent/1yr Parking Free! 2BR in Beloved Irvington Area ~ Apply Now! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-1mo-rent-1yr-parking-free-2br/fH2XCu7hXgpZ1Ge2MDepCt</link>
+      <description>$1,750 - 2br - 879ft 2 - 1mo Rent/1yr Parking Free! 2BR in Beloved Irvington Area ~ Apply Now! (Irvington, NE Portland, Broadway)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-1mo-rent-1yr-parking-free-2br/fH2XCu7hXgpZ1Ge2MDepCt"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">845c7a97d1d1dc91</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,950/mo · 2bd — Lovely Irvington 2BR w/Vintage Charm &amp; A/C ~ Now Accepting Apps! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-lovely-irvington-2br-vintage/9DzRvi7a3C67fwk9S3JLue</link>
+      <description>$1,950 - 2br - 1082ft 2 - Lovely Irvington 2BR w/Vintage Charm &amp; A/C ~ Now Accepting Apps! (Irvington, NE Portland, Broadway)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-lovely-irvington-2br-vintage/9DzRvi7a3C67fwk9S3JLue"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">99cc7f2e0e9d9d4a</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,977/mo · 2bd · 2ba — Unbeatable 2 BR/2 BA in Trendy Buckman Neighborhood [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-unbeatable-br-ba-in-trendy/qixJKyMMxuAMSTMLzj8Na4</link>
+      <description>$1,977 - 2br - 995ft 2 - Unbeatable 2 BR/2 BA in Trendy Buckman Neighborhood (Central Eastside)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-unbeatable-br-ba-in-trendy/qixJKyMMxuAMSTMLzj8Na4"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">bc1516aed510bce0</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,650/mo · 2bd · 1ba — 2-bed, 1 bath unit unit inside 4-plex located in Montavilla! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-bed-bath-unit-unit-inside-plex/aAJaJSD9mn7MP7eYFn9oij</link>
+      <description>$1,650 - 2br - 2-bed, 1 bath unit unit inside 4-plex located in Montavilla! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-bed-bath-unit-unit-inside-plex/aAJaJSD9mn7MP7eYFn9oij"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">6c1fe10cc707fd8e</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,975/mo · 2bd — Stylish 2 Bedroom Living In SE Portland ~ Now Accepting Applications! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-stylish-bedroom-living-in-se/ft5E41yGfbpbRmCBJABHUF</link>
+      <description>$1,975 - 2br - 891ft 2 - Stylish 2 Bedroom Living In SE Portland ~ Now Accepting Applications! (Hawthorne, SE Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-stylish-bedroom-living-in-se/ft5E41yGfbpbRmCBJABHUF"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">9595ed9e862da327</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,975/mo · 2bd — Contemporary SE PDX 2BR w/Modern Finishes ~ Submit Applications Now! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-contemporary-se-pdx-2br-modern/cWST5sm91RcrrzW3UP3iBw</link>
+      <description>$1,975 - 2br - 891ft 2 - Contemporary SE PDX 2BR w/Modern Finishes ~ Submit Applications Now! (Hawthorne, SE Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-contemporary-se-pdx-2br-modern/cWST5sm91RcrrzW3UP3iBw"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">4756c5e2a08a3837</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,475/mo · 2bd — Private Balconies/Patios, Tenant Controlled Building Access [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-private-balconies-patios/js7pKMJqdPns4Xhx86F643</link>
+      <description>$1,475 - 2br - 786ft 2 - Private Balconies/Patios, Tenant Controlled Building Access (North Tabor)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-private-balconies-patios/js7pKMJqdPns4Xhx86F643"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe6e4d6ccd7b0019</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,795/mo · 2bd — Corner 2-bed with Private Entrance [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-corner-bed-with-private/fS8gXritQiMv2ci933iCeN</link>
+      <description>$1,795 - 2br - 600ft 2 - Corner 2-bed with Private Entrance (Buckman/Kerns/Sunnyside)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-corner-bed-with-private/fS8gXritQiMv2ci933iCeN"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">71f25cd0f51560c7</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,850/mo · 2bd — Come View This Fabulous, Bottom Floor, 2-Bedroom @B Street! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-come-view-this-fabulous-bottom/3GYa51pSTyirJtiL857pPf</link>
+      <description>$1,850 - 2br - Come View This Fabulous, Bottom Floor, 2-Bedroom @B Street! (NE Portland, E Burnside, Laurelhurst, Kerns)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-come-view-this-fabulous-bottom/3GYa51pSTyirJtiL857pPf"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">7c1538d53a30f600</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,950/mo · 2bd — 1st Mo Free Rent! Classic Irvington 2BR, Vintage Charm, A/C! Apply Now [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-1st-mo-free-rent-classic/cCpz6yLnk43iiyp39hQXTv</link>
+      <description>$1,950 - 2br - 1082ft 2 - 1st Mo Free Rent! Classic Irvington 2BR, Vintage Charm, A/C! Apply Now (Irvington, NE Portland, Broadway)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-1st-mo-free-rent-classic/cCpz6yLnk43iiyp39hQXTv"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f8ddcb7df86fd15</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,850/mo · 2bd — Open Floor Plan, 24-Hour Emergency Maintenance, Maintenance on site [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-open-floor-plan-24-hour/e9TcHf1MTJ6HUw3w5S4cm6</link>
+      <description>$1,850 - 2br - 1072ft 2 - Open Floor Plan, 24-Hour Emergency Maintenance, Maintenance on site (North Tabor)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-open-floor-plan-24-hour/e9TcHf1MTJ6HUw3w5S4cm6"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">c6dca1ff01580d4d</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,875/mo · 2bd — $1,875/mo New! 2 beds 3923 SE 54th Ave #101 Portland, OR 97206 Contact View list [hotpads.com]</title>
+      <link>https://hotpads.com/3923-se-54th-ave-portland-or-97206-1wku36r/101/pad</link>
+      <description>$1,875/mo New! 2 beds 3923 SE 54th Ave #101 Portland, OR 97206 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/3923-se-54th-ave-portland-or-97206-1wku36r/101/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">094fb16fae832f9f</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,550/mo · 2bd — $1,550/mo 2 beds 1400 NE 118th Ave #1 Portland, OR 97220 Contact View listing [hotpads.com]</title>
+      <link>https://hotpads.com/1400-ne-118th-ave-portland-or-97220-1n3s42r/1/pad</link>
+      <description>$1,550/mo 2 beds 1400 NE 118th Ave #1 Portland, OR 97220 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/1400-ne-118th-ave-portland-or-97220-1n3s42r/1/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">5514d8038b09caf0</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,695/mo · 2bd — $1,695/mo New! 1 to 2 beds Division Apartments by Star Metro 2703-2723 SE Divisi [hotpads.com]</title>
+      <link>https://hotpads.com/division-apartments-by-star-metro-portland-or-97202-1pvb1a8/pad</link>
+      <description>$1,695/mo New! 1 to 2 beds Division Apartments by Star Metro 2703-2723 SE Division St,  Portland, OR 97202 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/division-apartments-by-star-metro-portland-or-97202-1pvb1a8/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">8955384cd83f1788</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,300/mo · 2bd — $1,300/mo 2 beds 6327 NE Glisan St #6327 Portland, OR 97213 Contact View listing [hotpads.com]</title>
+      <link>https://hotpads.com/6327-ne-glisan-st-portland-or-97213-1qz99r8/6327/pad</link>
+      <description>$1,300/mo 2 beds 6327 NE Glisan St #6327 Portland, OR 97213 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/6327-ne-glisan-st-portland-or-97213-1qz99r8/6327/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">c3bbcb04bfa8d81d</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,950/mo · 2bd — $1,950/mo New! 2 beds 716 NE 64th Ave Portland, OR 97213 Contact View listing [hotpads.com]</title>
+      <link>https://hotpads.com/716-ne-64th-ave-portland-or-97213-tvhchb/pad</link>
+      <description>$1,950/mo New! 2 beds 716 NE 64th Ave Portland, OR 97213 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/716-ne-64th-ave-portland-or-97213-tvhchb/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">02cc138c0030b605</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,400/mo · 2bd — $1,400/mo New! Studio to 2 beds The Rose 9700 NE Everett Ct,  Portland, OR 97220 [hotpads.com]</title>
+      <link>https://hotpads.com/the-rose-portland-or-97220-w93ja8/pad</link>
+      <description>$1,400/mo New! Studio to 2 beds The Rose 9700 NE Everett Ct,  Portland, OR 97220 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/the-rose-portland-or-97220-w93ja8/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">b0ed5292a1881545</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,595/mo · 2bd — $1,595/mo 2 beds 4005 SE 80th Ave Portland, OR 97206 Contact View listing [hotpads.com]</title>
+      <link>https://hotpads.com/4005-se-80th-ave-portland-or-97206-1pjuxpr/pad</link>
+      <description>$1,595/mo 2 beds 4005 SE 80th Ave Portland, OR 97206 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/4005-se-80th-ave-portland-or-97206-1pjuxpr/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">2f455da2abb6beae</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,967/mo · 3bd — $1,967+/mo 2 to 3 beds Grant Park Village 1656 NE 32nd Ave,  Portland, OR 97232 [hotpads.com]</title>
+      <link>https://hotpads.com/grant-park-village-portland-or-97232-251panq/pad</link>
+      <description>$1,967+/mo 2 to 3 beds Grant Park Village 1656 NE 32nd Ave,  Portland, OR 97232 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/grant-park-village-portland-or-97232-251panq/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">62a39c06ad07e7ec</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>See all homes [hotpads.com]</title>
+      <link>https://hotpads.com/portland-or/apartments-for-rent</link>
+      <description>See all homes&lt;br&gt;&lt;a href="https://hotpads.com/portland-or/apartments-for-rent"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">ccf51f20b7629186</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Switch to daily summary [hotpads.com]</title>
+      <link>https://hotpads.com/edit-search-frequency</link>
+      <description>Switch to daily summary&lt;br&gt;&lt;a href="https://hotpads.com/edit-search-frequency"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">c36f4a00df955580</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>HotPads Android App [hotpads.com]</title>
+      <link>https://hotpads.com/mobile-apps/android</link>
+      <description>&lt;br&gt;&lt;a href="https://hotpads.com/mobile-apps/android"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">48de3e21048f4320</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>HotPads Apple App [hotpads.com]</title>
+      <link>https://hotpads.com/mobile-apps/ios</link>
+      <description>&lt;br&gt;&lt;a href="https://hotpads.com/mobile-apps/ios"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">4a5fffdb9ce10216</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy policy [hotpads.com]</title>
+      <link>https://hotpads.com/r/3p1u9htphbfr6</link>
+      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/3p1u9htphbfr6"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">a21727be5fd84790</guid>
+      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
+    </item>
   </channel>
 </rss>
