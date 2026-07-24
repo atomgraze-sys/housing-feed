@@ -1,4 +1,18 @@
 {
+  "0145c51e67096a51": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,300/mo 2 beds 2520 NE Couch St Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464712+00:00",
+    "id": "0145c51e67096a51",
+    "location": "",
+    "price": 1300,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,300/mo 2 beds 2520 NE Couch St Portland, OR 97232 Contact View listing",
+    "url": "https://hotpads.com/2520-ne-couch-st-portland-or-97232-swujwy/pad"
+  },
   "02cc138c0030b605": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -27,6 +41,20 @@
     "title": "$1,875/mo New! 2 beds 3923 SE 54th Ave #101 Portland, OR 97206 Contact View list",
     "url": "https://hotpads.com/3923-se-54th-ave-portland-or-97206-1wku36r/101/pad"
   },
+  "105f5ee3f22455a7": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,799/mo 2 beds 3225 SE Alder Ct #1-6 Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464628+00:00",
+    "id": "105f5ee3f22455a7",
+    "location": "",
+    "price": 1799,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,799/mo 2 beds 3225 SE Alder Ct #1-6 Portland, OR 97214 Contact View listing",
+    "url": "https://hotpads.com/3225-se-alder-ct-portland-or-97214-tuhz8k/1-6/pad"
+  },
   "13333cbc3d353e9b": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -40,6 +68,62 @@
     "sqft": null,
     "title": "Massive apartments! $500 off the next two apps!",
     "url": "https://www.craigslist.org/view/d/portland-massive-apartments-500-off-the/eC6kwWBiagVEyLRHEb3GL1"
+  },
+  "13a8143b602d2083": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,600/mo New! 2 beds 542 NE Brazee St Portland, OR 97212 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465457+00:00",
+    "id": "13a8143b602d2083",
+    "location": "",
+    "price": 1600,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,600/mo New! 2 beds 542 NE Brazee St Portland, OR 97212 Contact View listing",
+    "url": "https://hotpads.com/542-ne-brazee-st-portland-or-97212-1n3q8yx/pad"
+  },
+  "16a4e8ec40d64a07": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 3.0,
+    "description": "$1,300+/mo 2 to 3 beds Alder 9 715 SE 9th Ave,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464675+00:00",
+    "id": "16a4e8ec40d64a07",
+    "location": "",
+    "price": 1300,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,300+/mo 2 to 3 beds Alder 9 715 SE 9th Ave,  Portland, OR 97214 Contact View",
+    "url": "https://hotpads.com/alder-9-portland-or-97214-24hps4z/pad"
+  },
+  "1ebe512705cc077f": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-24T07:41:38.465700+00:00",
+    "id": "1ebe512705cc077f",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/3042rdajk8jaa"
+  },
+  "2ade9445705528ed": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,995 - 2br - 800ft 2 - Renovated 2Bdrm Apartment w/ W/D & Basement Storage (2609 SE 25th Ave)",
+    "first_seen": "2026-07-24T07:41:38.465285+00:00",
+    "id": "2ade9445705528ed",
+    "location": "",
+    "price": 1995,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Renovated 2Bdrm Apartment w/ W/D & Basement Storage",
+    "url": "https://www.craigslist.org/view/d/portland-renovated-2bdrm-apartment-w/2zWDbRaRpSsFRcGzqVLZaR"
   },
   "2f455da2abb6beae": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
@@ -83,6 +167,34 @@
     "title": "Tour This Spectacular 2BR Today @ B Street\u00e2\u0080\u0094Available Now!",
     "url": "https://www.craigslist.org/view/d/portland-tour-this-spectacular-2br/umZqNgitzomjmyddsTz6EC"
   },
+  "38b4f5b1826224e4": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,519 - 2br - 808ft 2 - Unbeatable Location-2 BR w/ Free Bike Storage & Pet-Friendly (Buckman Neighborhood)",
+    "first_seen": "2026-07-24T07:41:38.465245+00:00",
+    "id": "38b4f5b1826224e4",
+    "location": "",
+    "price": 1519,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Unbeatable Location-2 BR w/ Free Bike Storage & Pet-Friendly",
+    "url": "https://www.craigslist.org/view/d/portland-unbeatable-location-br-free/okdfzAGz7vbyKfLnYoMbAx"
+  },
+  "39b4f8eda635871a": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,545 - 2br - Close in NE-2 Bedroom with Parking Ready Soon! (Portland)",
+    "first_seen": "2026-07-24T07:41:38.464437+00:00",
+    "id": "39b4f8eda635871a",
+    "location": "",
+    "price": 1545,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Close in NE-2 Bedroom with Parking Ready Soon!",
+    "url": "https://www.craigslist.org/view/d/portland-close-in-ne-bedroom-with/8wPF727qu31PcpVwweQp5z"
+  },
   "4756c5e2a08a3837": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -125,6 +237,34 @@
     "title": "HotPads Apple App",
     "url": "https://hotpads.com/mobile-apps/ios"
   },
+  "4c1c596bcba0634e": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,825+/mo 2 beds Aalto Modern 3021 NE Glisan St,  Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464486+00:00",
+    "id": "4c1c596bcba0634e",
+    "location": "",
+    "price": 1825,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,825+/mo 2 beds Aalto Modern 3021 NE Glisan St,  Portland, OR 97232 Contact Vi",
+    "url": "https://hotpads.com/aalto-modern-portland-or-97232-1n3uk70/pad"
+  },
+  "4f9dc4d7bf680f2a": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 3.0,
+    "description": "$1,609+/mo 2 to 3 beds Shortstack Belmont 2785 SE Belmont St,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464753+00:00",
+    "id": "4f9dc4d7bf680f2a",
+    "location": "",
+    "price": 1609,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,609+/mo 2 to 3 beds Shortstack Belmont 2785 SE Belmont St,  Portland, OR 9721",
+    "url": "https://hotpads.com/shortstack-belmont-portland-or-97214-253hkzk/pad"
+  },
   "5514d8038b09caf0": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -138,6 +278,20 @@
     "sqft": null,
     "title": "$1,550/mo 2 beds 1400 NE 118th Ave #1 Portland, OR 97220 Contact View listing",
     "url": "https://hotpads.com/1400-ne-118th-ave-portland-or-97220-1n3s42r/1/pad"
+  },
+  "60d896dec2904e23": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 3.0,
+    "description": "$1,291+/mo New! 1 to 3 beds Shortstack Mississippi 3325 N Michigan Ave,  Portland, OR 97227 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465134+00:00",
+    "id": "60d896dec2904e23",
+    "location": "",
+    "price": 1291,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,291+/mo New! 1 to 3 beds Shortstack Mississippi 3325 N Michigan Ave,  Portlan",
+    "url": "https://hotpads.com/shortstack-mississippi-portland-or-97227-24er6m0/pad"
   },
   "62a39c06ad07e7ec": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
@@ -153,6 +307,34 @@
     "title": "$1,967+/mo 2 to 3 beds Grant Park Village 1656 NE 32nd Ave,  Portland, OR 97232",
     "url": "https://hotpads.com/grant-park-village-portland-or-97232-251panq/pad"
   },
+  "6534d8b69552406c": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,850/mo 2 beds 32se2 425 SE 32nd Ave,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464584+00:00",
+    "id": "6534d8b69552406c",
+    "location": "",
+    "price": 1850,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,850/mo 2 beds 32se2 425 SE 32nd Ave,  Portland, OR 97214 Contact View listing",
+    "url": "https://hotpads.com/32se2-portland-or-97214-snrb7m/pad"
+  },
+  "69d6dfb1cfec0889": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,625 - 2br - Light & Bright 2-Bedroom w/Dishwasher & Parking! (Creston-Kenilworth)",
+    "first_seen": "2026-07-24T07:41:38.464244+00:00",
+    "id": "69d6dfb1cfec0889",
+    "location": "",
+    "price": 1625,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Light & Bright 2-Bedroom w/Dishwasher & Parking!",
+    "url": "https://www.craigslist.org/view/d/portland-light-bright-bedroom/mRB3RxaapB4bJgBUt4G9z7"
+  },
   "6c1fe10cc707fd8e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.0,
@@ -167,6 +349,20 @@
     "title": "2-bed, 1 bath unit unit inside 4-plex located in Montavilla!",
     "url": "https://www.craigslist.org/view/d/portland-bed-bath-unit-unit-inside-plex/aAJaJSD9mn7MP7eYFn9oij"
   },
+  "718109fe9c07a175": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,450/mo New! 2 beds 2204-2242 SE Taylor St Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464931+00:00",
+    "id": "718109fe9c07a175",
+    "location": "",
+    "price": 1450,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,450/mo New! 2 beds 2204-2242 SE Taylor St Portland, OR 97214 Contact View lis",
+    "url": "https://hotpads.com/zachary-taylor-portland-or-97214-20h2wb7/pad"
+  },
   "71f25cd0f51560c7": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -180,6 +376,20 @@
     "sqft": null,
     "title": "Corner 2-bed with Private Entrance",
     "url": "https://www.craigslist.org/view/d/portland-corner-bed-with-private/fS8gXritQiMv2ci933iCeN"
+  },
+  "75eac828f83b8a8d": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,695+/mo New! 2 beds Hoyt Street Plaza 10317 NE Hoyt St,  Portland, OR 97220 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464855+00:00",
+    "id": "75eac828f83b8a8d",
+    "location": "",
+    "price": 1695,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,695+/mo New! 2 beds Hoyt Street Plaza 10317 NE Hoyt St,  Portland, OR 97220 C",
+    "url": "https://hotpads.com/hoyt-street-plaza-portland-or-97220-t33v7a/pad"
   },
   "7c1538d53a30f600": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -208,6 +418,34 @@
     "sqft": null,
     "title": "Rent a great 2 bed / 2 bath! $500 off the next two apps!",
     "url": "https://www.craigslist.org/view/d/portland-rent-great-bed-bath-500-off/7oUufBzyGmvygfEGb8kVNW"
+  },
+  "7ca5e2a59fc891c2": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,215+/mo New! Total price Studio to 2 beds Sullivan's Ridge 1710 NE Multnomah St,  Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465543+00:00",
+    "id": "7ca5e2a59fc891c2",
+    "location": "",
+    "price": 1215,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,215+/mo New! Total price Studio to 2 beds Sullivan's Ridge 1710 NE Multnomah",
+    "url": "https://hotpads.com/sullivans-ridge-portland-or-97232-249jdch/pad"
+  },
+  "7cd5f26939a859a7": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,875+/mo 2 beds Taylor Place Apartments II 2401-2453 SE Taylor St,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464797+00:00",
+    "id": "7cd5f26939a859a7",
+    "location": "",
+    "price": 1875,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,875+/mo 2 beds Taylor Place Apartments II 2401-2453 SE Taylor St,  Portland,",
+    "url": "https://hotpads.com/taylor-place-apartments-ii-portland-or-97214-23z2q3m/pad"
   },
   "7d8821a238fac339": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -251,6 +489,20 @@
     "title": "Maintenance on site, Full Size Washer and Dryer, Large Windows",
     "url": "https://www.craigslist.org/view/d/portland-maintenance-on-site-full-size/gExz6XoyDkjvdVkWn7xFSJ"
   },
+  "87ecf4e830dd6015": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,695 - 2br - 2-Bedroom with Off-Street Parking! Hardwood Floors & Pet Friendly! (Portland)",
+    "first_seen": "2026-07-24T07:41:38.465322+00:00",
+    "id": "87ecf4e830dd6015",
+    "location": "",
+    "price": 1695,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "2-Bedroom with Off-Street Parking! Hardwood Floors & Pet Friendly!",
+    "url": "https://www.craigslist.org/view/d/portland-bedroom-with-off-street/o7LFoExBpFWoKJHzcYDtom"
+  },
   "8955384cd83f1788": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -265,6 +517,34 @@
     "title": "$1,695/mo New! 1 to 2 beds Division Apartments by Star Metro 2703-2723 SE Divisi",
     "url": "https://hotpads.com/division-apartments-by-star-metro-portland-or-97202-1pvb1a8/pad"
   },
+  "8a1d4d3ad215583b": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,492+/mo New! Total price 1 to 2 beds Axcess 15 Apartments 1500 NE 15th Ave,  Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465628+00:00",
+    "id": "8a1d4d3ad215583b",
+    "location": "",
+    "price": 1492,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,492+/mo New! Total price 1 to 2 beds Axcess 15 Apartments 1500 NE 15th Ave,",
+    "url": "https://hotpads.com/axcess-15-apartments-portland-or-97232-skf86t/pad"
+  },
+  "8df19d343eaba550": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,375+/mo Total price 1 to 2 beds 81 Powell 8105 SE Powell Blvd,  Portland, OR 97206 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465499+00:00",
+    "id": "8df19d343eaba550",
+    "location": "",
+    "price": 1375,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,375+/mo Total price 1 to 2 beds 81 Powell 8105 SE Powell Blvd,  Portland, OR",
+    "url": "https://hotpads.com/81-powell-portland-or-97206-249ju0e/pad"
+  },
   "8f8ddcb7df86fd15": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -278,6 +558,20 @@
     "sqft": null,
     "title": "1st Mo Free Rent! Classic Irvington 2BR, Vintage Charm, A/C! Apply Now",
     "url": "https://www.craigslist.org/view/d/portland-1st-mo-free-rent-classic/cCpz6yLnk43iiyp39hQXTv"
+  },
+  "948c2458e90c34d2": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,745/mo 2 beds 7030 SE Woodward St Portland, OR 97206 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464892+00:00",
+    "id": "948c2458e90c34d2",
+    "location": "",
+    "price": 1745,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,745/mo 2 beds 7030 SE Woodward St Portland, OR 97206 Contact View listing",
+    "url": "https://hotpads.com/7030-se-woodward-st-portland-or-97206-svr1h7/pad"
   },
   "9595ed9e862da327": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -307,6 +601,34 @@
     "title": "Lovely Irvington 2BR w/Vintage Charm & A/C ~ Now Accepting Apps!",
     "url": "https://www.craigslist.org/view/d/portland-lovely-irvington-2br-vintage/9DzRvi7a3C67fwk9S3JLue"
   },
+  "a14b02a57215145e": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,325+/mo Studio to 2 beds Skylar Grand 465 NE Davis St,  Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464971+00:00",
+    "id": "a14b02a57215145e",
+    "location": "",
+    "price": 1325,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,325+/mo Studio to 2 beds Skylar Grand 465 NE Davis St,  Portland, OR 97232 Co",
+    "url": "https://hotpads.com/skylar-grand-portland-or-97232-24ey0mz/pad"
+  },
+  "a2014dd096763533": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,623+/mo New! Total price 1 to 2 beds Vercanta Riverfront 4949 S Landing Dr,  Portland, OR 97239 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465177+00:00",
+    "id": "a2014dd096763533",
+    "location": "",
+    "price": 1623,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,623+/mo New! Total price 1 to 2 beds Vercanta Riverfront 4949 S Landing Dr,",
+    "url": "https://hotpads.com/vercanta-riverfront-portland-or-97239-249jm6u/pad"
+  },
   "a21727be5fd84790": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -320,6 +642,62 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/3p1u9htphbfr6"
+  },
+  "a3f63fddedb21e9e": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,650/mo 2 beds Taylor Place Apartments I 2400-2436 SE Taylor St,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.464535+00:00",
+    "id": "a3f63fddedb21e9e",
+    "location": "",
+    "price": 1650,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,650/mo 2 beds Taylor Place Apartments I 2400-2436 SE Taylor St,  Portland, OR",
+    "url": "https://hotpads.com/taylor-place-apartments-i-portland-or-97214-244z8wd/pad"
+  },
+  "ac5feec76b219552": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-24T07:41:38.464813+00:00",
+    "id": "ac5feec76b219552",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/25yjevaycxfjv"
+  },
+  "ae6505aff12c418a": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$2,000/mo New! 2 beds 1820 NE Davis St #105 Portland, OR 97232 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465685+00:00",
+    "id": "ae6505aff12c418a",
+    "location": "",
+    "price": 2000,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$2,000/mo New! 2 beds 1820 NE Davis St #105 Portland, OR 97232 Contact View list",
+    "url": "https://hotpads.com/1820-ne-davis-st-portland-or-97232-20znw9b/105/pad"
+  },
+  "b0c8dc9cd90c35d0": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-24T07:41:38.465192+00:00",
+    "id": "b0c8dc9cd90c35d0",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/1gnb2venjq386"
   },
   "b0ed5292a1881545": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
@@ -335,6 +713,20 @@
     "title": "$1,400/mo New! Studio to 2 beds The Rose 9700 NE Everett Ct,  Portland, OR 97220",
     "url": "https://hotpads.com/the-rose-portland-or-97220-w93ja8/pad"
   },
+  "b4f42d914b864571": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Unsubscribe",
+    "first_seen": "2026-07-24T07:41:38.465206+00:00",
+    "id": "b4f42d914b864571",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Unsubscribe",
+    "url": "https://hotpads.com/unsubscribe/searches"
+  },
   "bc1516aed510bce0": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 2.0,
@@ -348,6 +740,20 @@
     "sqft": null,
     "title": "Unbeatable 2 BR/2 BA in Trendy Buckman Neighborhood",
     "url": "https://www.craigslist.org/view/d/portland-unbeatable-br-ba-in-trendy/qixJKyMMxuAMSTMLzj8Na4"
+  },
+  "c1e35aa3302915d7": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,295 - 2br - Close-in SE: Garden Level 1 Bdr w/ DW, Private Patio, & Parking!",
+    "first_seen": "2026-07-24T07:41:38.464316+00:00",
+    "id": "c1e35aa3302915d7",
+    "location": "",
+    "price": 1295,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Close-in SE: Garden Level 1 Bdr w/ DW, Private Patio, & Parking!",
+    "url": "https://www.craigslist.org/view/d/portland-close-in-se-garden-level-bdr/uDpZLx8MJKxoERysGQFDTq"
   },
   "c36f4a00df955580": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
@@ -391,6 +797,20 @@
     "title": "Open Floor Plan, 24-Hour Emergency Maintenance, Maintenance on site",
     "url": "https://www.craigslist.org/view/d/portland-open-floor-plan-24-hour/e9TcHf1MTJ6HUw3w5S4cm6"
   },
+  "c86da01b2b0f30dd": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 3.0,
+    "description": "$1,200+/mo New! Studio to 3 beds Brookland 4225 SE Milwaukie Ave,  Portland, OR 97202 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465011+00:00",
+    "id": "c86da01b2b0f30dd",
+    "location": "",
+    "price": 1200,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,200+/mo New! Studio to 3 beds Brookland 4225 SE Milwaukie Ave,  Portland, OR",
+    "url": "https://hotpads.com/brookland-portland-or-97202-2477rp4/pad"
+  },
   "ccf51f20b7629186": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -404,6 +824,48 @@
     "sqft": null,
     "title": "See all homes",
     "url": "https://hotpads.com/portland-or/apartments-for-rent"
+  },
+  "de356cb392c0075e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,825 - 2br - Off SE Belmont: Mid-Century 2Bdr w/Patio & Parking! (Buckman)",
+    "first_seen": "2026-07-24T07:41:38.464362+00:00",
+    "id": "de356cb392c0075e",
+    "location": "",
+    "price": 1825,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Off SE Belmont: Mid-Century 2Bdr w/Patio & Parking!",
+    "url": "https://www.craigslist.org/view/d/portland-off-se-belmont-mid-century/13b2SLVshvQ9to2Kmwvr49"
+  },
+  "e9d5992dd0218ba7": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,750/mo New! 2 beds 8314 SE Yamhill St #2 Portland, OR 97216 Contact View listing",
+    "first_seen": "2026-07-24T07:41:38.465092+00:00",
+    "id": "e9d5992dd0218ba7",
+    "location": "",
+    "price": 1750,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,750/mo New! 2 beds 8314 SE Yamhill St #2 Portland, OR 97216 Contact View list",
+    "url": "https://hotpads.com/8314-se-yamhill-st-portland-or-97216-snnsj5/2/pad"
+  },
+  "fdd03467770faabb": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-24T07:41:38.465643+00:00",
+    "id": "fdd03467770faabb",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/hmwk9frxn9p2"
   },
   "fe6e4d6ccd7b0019": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
