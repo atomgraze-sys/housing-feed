@@ -307,6 +307,20 @@
     "title": "$1,650+/mo New! Studio to 2 beds 5MLK 5 SE Martin Luther King Jr Blvd,  Portland",
     "url": "https://hotpads.com/5mlk-portland-or-97214-241zcd0/pad"
   },
+  "36a5b9c701bf8156": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-28T07:48:04.103842+00:00",
+    "id": "36a5b9c701bf8156",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/4xus5ssvvpkb3"
+  },
   "36b52e691436f1a9": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -404,6 +418,20 @@
     "sqft": null,
     "title": "$1,222+/mo Studio to 2 beds Traditions at Hazelwood 10451 E Burnside St,  Portla",
     "url": "https://hotpads.com/traditions-at-hazelwood-portland-or-97216-249nreh/pad"
+  },
+  "4284b11c186676d6": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,100 - 2br - ++Super cute 2 bed 1 bath home++ (Portland, OR)",
+    "first_seen": "2026-07-28T07:48:04.103908+00:00",
+    "id": "4284b11c186676d6",
+    "location": "",
+    "price": 1100,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "++Super cute 2 bed 1 bath home++",
+    "url": "https://www.craigslist.org/view/d/portland-super-cute-bed-bath-home/9j8QCa1RUYsckYX3dU2Zvg"
   },
   "4756c5e2a08a3837": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
