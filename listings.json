@@ -1637,6 +1637,20 @@
     "title": "$1,300/mo 2 beds 6327 NE Glisan St #6327 Portland, OR 97213 Contact View listing",
     "url": "https://hotpads.com/6327-ne-glisan-st-portland-or-97213-1qz99r8/6327/pad"
   },
+  "c409f1f4195b3579": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-30T17:09:38.039590+00:00",
+    "id": "c409f1f4195b3579",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/1eu5pd5hrw7w1"
+  },
   "c6dca1ff01580d4d": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1706,6 +1720,20 @@
     "sqft": null,
     "title": "See all homes",
     "url": "https://hotpads.com/portland-or/apartments-for-rent"
+  },
+  "d0324561ab7401e1": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$2,000 - 2br - 960ft 2 - 2 Bed / 1 Bath Home Near Shopping and Dining",
+    "first_seen": "2026-07-30T17:09:38.039674+00:00",
+    "id": "d0324561ab7401e1",
+    "location": "",
+    "price": 2000,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "2 Bed / 1 Bath Home Near Shopping and Dining",
+    "url": "https://www.craigslist.org/view/d/portland-bed-bath-home-near-shopping/8anfPhsqn7GUWUqwaxwHky"
   },
   "d21f91ffcead606c": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1972,6 +2000,20 @@
     "sqft": null,
     "title": "$1,968+/mo New! 1 to 2 beds Willamette Tower 3820 S River Pkwy,  Portland, OR 97",
     "url": "https://hotpads.com/willamette-tower-portland-or-97239-24cjp79/pad"
+  },
+  "fd72683c9df7fcef": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,595 - 2br - 750ft 2 - Gorgeous, updated 2-bed unit at Glencourt Apartments! (4833 E Burnside St. #5)",
+    "first_seen": "2026-07-30T17:09:38.039736+00:00",
+    "id": "fd72683c9df7fcef",
+    "location": "",
+    "price": 1595,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Gorgeous, updated 2-bed unit at Glencourt Apartments!",
+    "url": "https://www.craigslist.org/view/d/portland-gorgeous-updated-bed-unit-at/3QCvaZqdbmU2tGJH3jnhsj"
   },
   "fdd03467770faabb": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
