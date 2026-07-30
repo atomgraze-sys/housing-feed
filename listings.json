@@ -433,6 +433,34 @@
     "title": "$1,222+/mo Studio to 2 beds Traditions at Hazelwood 10451 E Burnside St,  Portla",
     "url": "https://hotpads.com/traditions-at-hazelwood-portland-or-97216-249nreh/pad"
   },
+  "41c5049030069c55": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-07-30T07:41:45.974785+00:00",
+    "id": "41c5049030069c55",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/32tsz0tmn2hep"
+  },
+  "420a440d48f2becd": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,250+/mo Total price 1 to 2 beds Shady Glen Apartments 3710 SE 36th Pl,  Portland, OR 97202 Contact View listing",
+    "first_seen": "2026-07-30T07:41:45.974749+00:00",
+    "id": "420a440d48f2becd",
+    "location": "",
+    "price": 1250,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,250+/mo Total price 1 to 2 beds Shady Glen Apartments 3710 SE 36th Pl,  Portl",
+    "url": "https://hotpads.com/shady-glen-apartments-portland-or-97202-23xk2pe/pad"
+  },
   "4284b11c186676d6": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.0,
@@ -712,6 +740,20 @@
     "sqft": null,
     "title": "2-bed, 1 bath unit unit inside 4-plex located in Montavilla!",
     "url": "https://www.craigslist.org/view/d/portland-bed-bath-unit-unit-inside-plex/aAJaJSD9mn7MP7eYFn9oij"
+  },
+  "6ea71f5bace559c1": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,395 - 2br - 850ft 2 - Large 2 bedroom Upper floor unit - North Tabor (North Tabor)",
+    "first_seen": "2026-07-30T07:41:45.974651+00:00",
+    "id": "6ea71f5bace559c1",
+    "location": "",
+    "price": 1395,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Large 2 bedroom Upper floor unit - North Tabor",
+    "url": "https://www.craigslist.org/view/d/portland-large-bedroom-upper-floor-unit/sQR3XkPQAZ2pgFaTHT87Zn"
   },
   "6ff1cc1f67aebc5e": {
     "_via": "\"HotPads\" <inquiries@update.hotpads.com>",
