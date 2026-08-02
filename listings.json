@@ -909,6 +909,20 @@
     "title": "appMap",
     "url": "https://hotpads.com/mobile/app"
   },
+  "6bcd19d990343630": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-02T20:29:49.401146+00:00",
+    "id": "6bcd19d990343630",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/25zd3hnpt0jpm"
+  },
   "6c1fe10cc707fd8e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.0,
