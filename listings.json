@@ -503,6 +503,20 @@
     "title": "$1,600+/mo Studio to 2 beds Modera Belmont 685 SE Belmont St,  Portland, OR 9721",
     "url": "https://hotpads.com/modera-belmont-portland-or-97214-247q37c/pad"
   },
+  "383b7858bf1d133a": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,336+/mo New! Studio to 2 beds Windsor Buckman 909 SE 12th Ave,  Portland, OR 97214 Contact View listing",
+    "first_seen": "2026-08-04T07:48:21.125159+00:00",
+    "id": "383b7858bf1d133a",
+    "location": "",
+    "price": 1336,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,336+/mo New! Studio to 2 beds Windsor Buckman 909 SE 12th Ave,  Portland, OR",
+    "url": "https://hotpads.com/windsor-buckman-portland-or-97214-254vcr5/pad"
+  },
   "38b4f5b1826224e4": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1707,6 +1721,20 @@
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/25yjevaycxfjv"
   },
+  "ad10c1b8e25a9b63": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-04T07:48:21.125278+00:00",
+    "id": "ad10c1b8e25a9b63",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/3u5ufm3eyuk8u"
+  },
   "adcde824d46e4c56": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -1902,6 +1930,20 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/1mca6wfrw3cfj"
+  },
+  "bfd02f46d11602e7": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,595 - 2br - Upstairs 2 bedroom, available July 2026 (Sullivan's Gulch (inner NE Portland))",
+    "first_seen": "2026-08-04T07:48:21.125328+00:00",
+    "id": "bfd02f46d11602e7",
+    "location": "",
+    "price": 1595,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Upstairs 2 bedroom, available July 2026",
+    "url": "https://www.craigslist.org/view/d/portland-upstairs-bedroom-available/o519VW9KXEpg45xivAihy1"
   },
   "bfd83ed820916c92": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
