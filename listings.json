@@ -433,6 +433,20 @@
     "title": "$1,473+/mo New! Studio to 2 beds Modera Morrison 1130 SE Morrison St,  Portland,",
     "url": "https://hotpads.com/modera-morrison-portland-or-97214-249jmaa/pad"
   },
+  "2ef8be395292d92e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,519 - 2br - 804ft 2 - Inviting 2 BR-Steps to TriMet, Covered Parking & More! (Buckman Neighborhood)",
+    "first_seen": "2026-08-07T19:56:00.116397+00:00",
+    "id": "2ef8be395292d92e",
+    "location": "",
+    "price": 1519,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Inviting 2 BR-Steps to TriMet, Covered Parking & More!",
+    "url": "https://www.craigslist.org/view/d/portland-inviting-br-steps-to-trimet/af4NLLHYb7RjRc3WfCNWri"
+  },
   "2f455da2abb6beae": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -936,6 +950,20 @@
     "sqft": null,
     "title": "$1,399+/mo New! Total price Studio to 2 beds Holloway 2050 NE Pacific St,  Portl",
     "url": "https://hotpads.com/holloway-portland-or-97232-24e3c9v/pad"
+  },
+  "54ef46ff60320a2a": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-07T19:56:00.116223+00:00",
+    "id": "54ef46ff60320a2a",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/2c50scqbg5eeg"
   },
   "5514d8038b09caf0": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
