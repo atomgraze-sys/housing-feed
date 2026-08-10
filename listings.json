@@ -209,6 +209,20 @@
     "title": "Massive apartments! $500 off the next two apps!",
     "url": "https://www.craigslist.org/view/d/portland-massive-apartments-500-off-the/eC6kwWBiagVEyLRHEb3GL1"
   },
+  "137022cf76348b15": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-10T19:58:09.166896+00:00",
+    "id": "137022cf76348b15",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/2v3wc68dj6tee"
+  },
   "13a8143b602d2083": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -2322,6 +2336,20 @@
     "sqft": null,
     "title": "$1,195+/mo Total price 1 to 3 beds Creston Villa 3608 SE 40th Ave,  Portland, OR",
     "url": "https://hotpads.com/creston-villa-portland-or-97202-23vgp48/pad"
+  },
+  "bb9799d0502da278": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,525 - 2br - 850ft 2 - Fantastic, renovated kitchen on a cul-du-sac street! Must see! (Portland, Southeast, PDX, Powell, Mt Tabor)",
+    "first_seen": "2026-08-10T19:58:09.166802+00:00",
+    "id": "bb9799d0502da278",
+    "location": "",
+    "price": 1525,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Fantastic, renovated kitchen on a cul-du-sac street! Must see!",
+    "url": "https://www.craigslist.org/view/d/portland-fantastic-renovated-kitchen-on/6vg3miXhcf4N2zDr2Amcbk"
   },
   "bc1516aed510bce0": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
