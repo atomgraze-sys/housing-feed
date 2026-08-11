@@ -531,6 +531,20 @@
     "title": "$1,475+/mo 1 to 2 beds Hollywood Towne House 4265 NE Halsey St,  Portland, OR 97",
     "url": "https://hotpads.com/hollywood-towne-house-portland-or-97213-skfn4r/pad"
   },
+  "32bb2986d747a91b": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 3.0,
+    "description": "$1,595 - 3br - 3 BR/1 BA Portland, OR\u00e2\u0080\u0093 $1595/mo \u00e2\u0080\u0093house for Rent \u00e2\u0080\u0093 Vacant & Ready!! (Portland, OR)",
+    "first_seen": "2026-08-11T15:30:17.416566+00:00",
+    "id": "32bb2986d747a91b",
+    "location": "",
+    "price": 1595,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "3 BR/1 BA Portland, OR\u00e2\u0080\u0093 $1595/mo \u00e2\u0080\u0093house for Rent \u00e2\u0080\u0093 Vacant & Ready!!",
+    "url": "https://www.craigslist.org/view/d/portland-br-ba-portland-or-1595-mo/dgj92iojbGov19xvQ5JMsm"
+  },
   "32f0cbc43d3ad329": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2882,6 +2896,20 @@
     "sqft": null,
     "title": "$1,545/mo 2 beds 1332 NE 21st Ave #3 Portland, OR 97232 Contact View listing",
     "url": "https://hotpads.com/1332-ne-21st-ave-portland-or-97232-skhutb/3/pad"
+  },
+  "eb5bcb3613ee7b75": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,050 - 2br - Beautifully 2-bedroom, 1-bath home (Portland, OR)",
+    "first_seen": "2026-08-11T15:30:17.416492+00:00",
+    "id": "eb5bcb3613ee7b75",
+    "location": "",
+    "price": 1050,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Beautifully 2-bedroom, 1-bath home",
+    "url": "https://www.craigslist.org/view/d/portland-beautifully-bedroom-bath-home/aAanfhHnVtzoWsCVZKgS2b"
   },
   "eb834dcf345733a3": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
