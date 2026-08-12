@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 20:04:22 +0000</lastBuildDate>
-    <item>
-      <title>HotPads Android App [hotpads.com]</title>
-      <link>https://hotpads.com/mobile-apps/android</link>
-      <description>&lt;br&gt;&lt;a href="https://hotpads.com/mobile-apps/android"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">48de3e21048f4320</guid>
-      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>HotPads Apple App [hotpads.com]</title>
-      <link>https://hotpads.com/mobile-apps/ios</link>
-      <description>&lt;br&gt;&lt;a href="https://hotpads.com/mobile-apps/ios"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">4a5fffdb9ce10216</guid>
-      <pubDate>Thu, 23 Jul 2026 17:54:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 00:07:03 +0000</lastBuildDate>
     <item>
       <title>Privacy policy [hotpads.com]</title>
       <link>https://hotpads.com/r/3p1u9htphbfr6</link>
@@ -1408,6 +1394,20 @@
       <description>$1,519 - 2br - 804ft 2 - Live Steps From Parks! Modern 2 BR-Fitness &amp; On-Site Laundry (Buckman Neighborhood)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-live-steps-from-parks-modern/euEwdsXa59FdPuCL5sXydS"&gt;View listing →&lt;/a&gt;</description>
       <guid isPermaLink="false">f04a01f2fe02a767</guid>
       <pubDate>Tue, 11 Aug 2026 20:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,995/mo · 2bd — Close-In / Large 2 Bedroom! Washer &amp; Dryer, Hardwoods &amp; Bike Parking! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-close-in-large-bedroom-washer/uWiYBQDQzuh5oea148g6Ho</link>
+      <description>$1,995 - 2br - Close-In / Large 2 Bedroom! Washer &amp; Dryer, Hardwoods &amp; Bike Parking! (Portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-close-in-large-bedroom-washer/uWiYBQDQzuh5oea148g6Ho"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">b3ee04f6e51a5fd3</guid>
+      <pubDate>Wed, 12 Aug 2026 00:07:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,975/mo · 2bd — Fully Renovated Top Floor Mid-Century 2 Bedroom! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-fully-renovated-top-floor-mid/fkb154EDcuUo7PTkgF8XQd</link>
+      <description>$1,975 - 2br - 768ft 2 - Fully Renovated Top Floor Mid-Century 2 Bedroom! (portland)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-fully-renovated-top-floor-mid/fkb154EDcuUo7PTkgF8XQd"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f14c81a976f968d</guid>
+      <pubDate>Wed, 12 Aug 2026 00:07:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
