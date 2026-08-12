@@ -1175,6 +1175,20 @@
     "title": "$1,967+/mo 2 to 3 beds Grant Park Village 1656 NE 32nd Ave,  Portland, OR 97232",
     "url": "https://hotpads.com/grant-park-village-portland-or-97232-251panq/pad"
   },
+  "64050dba8db72e8e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,850 - 2br - Belmont District 2-Bedroom 1 Bath Apartment \u00e2\u0080\u0093 Available Now (Portland)",
+    "first_seen": "2026-08-12T06:56:39.847399+00:00",
+    "id": "64050dba8db72e8e",
+    "location": "",
+    "price": 1850,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Belmont District 2-Bedroom 1 Bath Apartment \u00e2\u0080\u0093 Available Now",
+    "url": "https://www.craigslist.org/view/d/portland-belmont-district-bedroom-bath/bhwsvATKVDPTwNc4PgfGuU"
+  },
   "64a7daaabfe9fd29": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2070,6 +2084,20 @@
     "sqft": null,
     "title": "$1,650/mo 2 beds Taylor Place Apartments I 2400-2436 SE Taylor St,  Portland, OR",
     "url": "https://hotpads.com/taylor-place-apartments-i-portland-or-97214-244z8wd/pad"
+  },
+  "a48ec2afc15b60e6": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 3.0,
+    "description": "$1,050 - 3br - 876ft 2 - Spacious three-bedroom one bath 1912 bungalow in north of Division (Portland, OR)",
+    "first_seen": "2026-08-12T06:56:39.847304+00:00",
+    "id": "a48ec2afc15b60e6",
+    "location": "",
+    "price": 1050,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Spacious three-bedroom one bath 1912 bungalow in north of Division",
+    "url": "https://www.craigslist.org/view/d/portland-spacious-three-bedroom-one/3huTbs2MXAABxkzo2y9FJn"
   },
   "a507c6c87b3b4d5c": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
