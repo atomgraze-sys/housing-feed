@@ -97,6 +97,20 @@
     "title": "$1,875/mo New! 2 beds 3923 SE 54th Ave #101 Portland, OR 97206 Contact View list",
     "url": "https://hotpads.com/3923-se-54th-ave-portland-or-97206-1wku36r/101/pad"
   },
+  "09db9a3dce83c020": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-15T22:51:51.370934+00:00",
+    "id": "09db9a3dce83c020",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/58jw34kqggqza"
+  },
   "09ea53a8752b6784": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -3218,6 +3232,20 @@
     "sqft": null,
     "title": "$1,256+/mo 1 to 3 beds Cherry Blossom Estates 10570 SE Cherry Blossom Dr,  Portl",
     "url": "https://hotpads.com/cherry-blossom-estates-portland-or-97216-skfvn3/pad"
+  },
+  "e6c5827fa87d186a": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 2.0,
+    "beds": 3.0,
+    "description": "$1,000 - 3br - 1300ft 2 - Introducing a charming 3 bed, 2 bath house (Portland, OR)",
+    "first_seen": "2026-08-15T22:51:51.371072+00:00",
+    "id": "e6c5827fa87d186a",
+    "location": "",
+    "price": 1000,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Introducing a charming 3 bed, 2 bath house",
+    "url": "https://www.craigslist.org/view/d/portland-introducing-charming-bed-bath/2kSJJy66mKSV5CbUWCQEjM"
   },
   "e6ea19e5465ee86a": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
