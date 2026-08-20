@@ -755,6 +755,20 @@
     "title": "$1,495/mo New! 2 beds 8122 NE Failing St Portland, OR 97213 Contact View listing",
     "url": "https://hotpads.com/8122-ne-failing-st-portland-or-97213-vh4171/pad"
   },
+  "33a6bb2fb653386e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,750 - 2br - 1200ft 2 - Apartment above private house in Mt Tabor (Mt Tabor)",
+    "first_seen": "2026-08-20T23:00:11.490670+00:00",
+    "id": "33a6bb2fb653386e",
+    "location": "",
+    "price": 1750,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Apartment above private house in Mt Tabor",
+    "url": "https://www.craigslist.org/view/d/portland-apartment-above-private-house/tKD3SpNhqdqdShyXB1PegS"
+  },
   "33e77fa2668782de": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1553,6 +1567,20 @@
     "title": "Bottom Floor 2-Bed 2-Bath Coming September! Full size W/D in unit!",
     "url": "https://www.craigslist.org/view/d/portland-bottom-floor-bed-bath-coming/9u9gHJutj2Ffd2kZmZ9Bec"
   },
+  "64b5c73ee91cb8c6": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-20T23:00:11.490724+00:00",
+    "id": "64b5c73ee91cb8c6",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/2be1aufgfj4t6"
+  },
   "6534d8b69552406c": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -2309,6 +2337,20 @@
     "title": "1st Mo Free Rent! Classic Irvington 2BR, Vintage Charm, A/C! Apply Now",
     "url": "https://www.craigslist.org/view/d/portland-1st-mo-free-rent-classic/cCpz6yLnk43iiyp39hQXTv"
   },
+  "913754e7d1d10dec": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,300 - 2br - SPACIOUS 1BED/1BATH, UPPER LEVEL, OFF STREET PARKING, PATIO! (KERNS)",
+    "first_seen": "2026-08-20T23:00:11.490830+00:00",
+    "id": "913754e7d1d10dec",
+    "location": "",
+    "price": 1300,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "SPACIOUS 1BED/1BATH, UPPER LEVEL, OFF STREET PARKING, PATIO!",
+    "url": "https://www.craigslist.org/view/d/portland-spacious-1bed-1bath-upper/4x48fFwBqyab465SpEEuc3"
+  },
   "91ceb2e6a861b16e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2504,6 +2546,20 @@
     "sqft": null,
     "title": "Welcome to 3BR/1BA \u00e2\u0080\u0094 Elegant City Living in 511 NE Lawrence Ave",
     "url": "https://www.craigslist.org/view/d/portland-welcome-to-3br-1ba-elegant/riJY9rZrf4S4jcZvPdhS6K"
+  },
+  "9f834c502928dd90": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,519 - 2br - 808ft 2 - Inviting 2 BR-Near Lloyd District, Park Views, Must-See! (Buckman Neighborhood)",
+    "first_seen": "2026-08-20T23:00:11.490780+00:00",
+    "id": "9f834c502928dd90",
+    "location": "",
+    "price": 1519,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Inviting 2 BR-Near Lloyd District, Park Views, Must-See!",
+    "url": "https://www.craigslist.org/view/d/portland-inviting-br-near-lloyd/5itb8MQxTGBLZpHvDhJGse"
   },
   "a00dbd4deccb4d4d": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
