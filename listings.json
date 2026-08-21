@@ -2729,6 +2729,20 @@
     "title": "$1,395+/mo 1 to 2 beds Moreland Place Apartments 3612 SE 28th Pl,  Portland, OR",
     "url": "https://hotpads.com/moreland-place-apartments-portland-or-97202-skfvg3/pad"
   },
+  "a70e26ea03c988c7": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-08-21T18:01:05.622306+00:00",
+    "id": "a70e26ea03c988c7",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/56gq85fx4u2b8"
+  },
   "a81471081a01ffd7": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -2924,6 +2938,20 @@
     "sqft": null,
     "title": "$1,415+/mo New! 1 to 2 beds The Century 3270 N Vancouver Ave,  Portland, OR 9722",
     "url": "https://hotpads.com/the-century-portland-or-97227-23vggmv/pad"
+  },
+  "b3e7847650b12ffb": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,795 - 2br - Contemporary 2Bdr Flat w/ DW, W/D, & Parking! (Creston-Kenilworth)",
+    "first_seen": "2026-08-21T18:01:05.622087+00:00",
+    "id": "b3e7847650b12ffb",
+    "location": "",
+    "price": 1795,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Contemporary 2Bdr Flat w/ DW, W/D, & Parking!",
+    "url": "https://www.craigslist.org/view/d/portland-contemporary-2bdr-flat-dw-d/bWEPdgeHvy7gSBD574UGXY"
   },
   "b3ee04f6e51a5fd3": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -3638,6 +3666,20 @@
     "sqft": null,
     "title": "Public Notice of Rental \u00e2\u0080\u0093 (The Alexander)",
     "url": "https://www.craigslist.org/view/d/portland-public-notice-of-rental-the/hoyP7NVmfeZxuTiGLHnNi8"
+  },
+  "e321ba4b0a7f9fdc": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,375+/mo New! 1 to 2 beds Monroe Street Apartments 3035 NE Martin Luther King Jr Blvd,  Portland, OR 97212 Contact View listing",
+    "first_seen": "2026-08-21T18:01:05.622279+00:00",
+    "id": "e321ba4b0a7f9fdc",
+    "location": "",
+    "price": 1375,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,375+/mo New! 1 to 2 beds Monroe Street Apartments 3035 NE Martin Luther King",
+    "url": "https://hotpads.com/monroe-street-apartments-portland-or-97212-241zxgn/pad"
   },
   "e3789c75098d28e1": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
