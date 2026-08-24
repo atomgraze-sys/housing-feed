@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Privacy policy [hotpads.com]</title>
-      <link>https://hotpads.com/r/13ceaqcedeckw</link>
-      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/13ceaqcedeckw"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">5c44760a76b894e0</guid>
-      <pubDate>Sun, 26 Jul 2026 20:32:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>$1,580/mo · 2bd — $1,580+/mo Total price 1 to 2 beds The Linden 1250 E Burnside St,  Portland, OR [hotpads.com]</title>
-      <link>https://hotpads.com/the-linden-portland-or-97214-sktrzs/pad</link>
-      <description>$1,580+/mo Total price 1 to 2 beds The Linden 1250 E Burnside St,  Portland, OR 97214 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/the-linden-portland-or-97214-sktrzs/pad"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">8b2c6fb636714190</guid>
-      <pubDate>Mon, 27 Jul 2026 10:55:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 17:25:47 +0000</lastBuildDate>
     <item>
       <title>$1,499/mo · 2bd — $1,499+/mo New! Total price Studio to 2 beds The Payton 2020 NE Multnomah St,  P [hotpads.com]</title>
       <link>https://hotpads.com/the-payton-portland-or-97232-249hytp/pad</link>
@@ -1408,6 +1394,20 @@
       <description>$1,350 - 2br - This 2-bed, 1-bath Portland home (Portland, OR)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-this-bed-bath-portland-home/4LoNqTADL9yfE6KjUvRZ1L"&gt;View listing →&lt;/a&gt;</description>
       <guid isPermaLink="false">397a02a73cd171e1</guid>
       <pubDate>Mon, 24 Aug 2026 12:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,350/mo · 2bd — This 2-bed, 1-bath Portland home [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-this-bed-bath-portland-home/ue8g8TVxyZq5zahdtpio7H</link>
+      <description>$1,350 - 2br - This 2-bed, 1-bath Portland home (Portland, OR)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-this-bed-bath-portland-home/ue8g8TVxyZq5zahdtpio7H"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">04cd186ab2a047ca</guid>
+      <pubDate>Mon, 24 Aug 2026 17:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,895/mo · 2bd — Kerns 2-Bed w/Upscale Finishes Throughout! [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-kerns-bed-upscale-finishes/gDLE7SzEHSyoCfP4L4e2A7</link>
+      <description>$1,895 - 2br - Kerns 2-Bed w/Upscale Finishes Throughout! (Kerns)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-kerns-bed-upscale-finishes/gDLE7SzEHSyoCfP4L4e2A7"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e31710bfe394af5</guid>
+      <pubDate>Mon, 24 Aug 2026 17:25:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
