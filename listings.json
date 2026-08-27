@@ -629,20 +629,6 @@
     "title": "2 bdrm - Inner SE - Laurelhurst Pk - Main Level - W&D on site",
     "url": "https://www.craigslist.org/view/d/portland-bdrm-inner-se-laurelhurst-pk/xyy5xwGU1VTjvP8XZPx8YT"
   },
-  "36a5b9c701bf8156": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-07-28T07:48:04.103842+00:00",
-    "id": "36a5b9c701bf8156",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/4xus5ssvvpkb3"
-  },
   "3746529f0b89b9d5": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.0,
@@ -796,20 +782,6 @@
     "sqft": null,
     "title": "$1,250+/mo Total price 1 to 2 beds Shady Glen Apartments 3710 SE 36th Pl,  Portl",
     "url": "https://hotpads.com/shady-glen-apartments-portland-or-97202-23xk2pe/pad"
-  },
-  "4284b11c186676d6": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 1.0,
-    "beds": 2.0,
-    "description": "$1,100 - 2br - ++Super cute 2 bed 1 bath home++ (Portland, OR)",
-    "first_seen": "2026-07-28T07:48:04.103908+00:00",
-    "id": "4284b11c186676d6",
-    "location": "",
-    "price": 1100,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "++Super cute 2 bed 1 bath home++",
-    "url": "https://www.craigslist.org/view/d/portland-super-cute-bed-bath-home/9j8QCa1RUYsckYX3dU2Zvg"
   },
   "444a391017f5da55": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1160,6 +1132,20 @@
     "sqft": null,
     "title": "Lovely Brick 3 Bedrooms And 2 Bathroom Home",
     "url": "https://www.craigslist.org/view/d/portland-lovely-brick-bedrooms-and/hyQPnu5ti7Ge1SNeyDDJir"
+  },
+  "61d0bc26ebff9045": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 2.0,
+    "beds": 2.0,
+    "description": "$1,199 - 2br - @@@Newly Renovated 2Bed/2Bath in the heart of Laurelhurst neighborhood (Portland, OR)",
+    "first_seen": "2026-08-27T12:26:06.134983+00:00",
+    "id": "61d0bc26ebff9045",
+    "location": "",
+    "price": 1199,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "@@@Newly Renovated 2Bed/2Bath in the heart of Laurelhurst neighborhood",
+    "url": "https://www.craigslist.org/view/d/portland-newly-renovated-2bed-2bath-in/gpj8jCta2NBZHaB37gfZmA"
   },
   "637b856543088c05": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2322,6 +2308,20 @@
     "sqft": null,
     "title": "\u00f0\u009f\u008f\u00a1 Gorgeous & Charming 3 Bed, 2 Bath | $1,195/mo | Portland, OR",
     "url": "https://www.craigslist.org/view/d/portland-gorgeous-charming-bed-bath-mo/rccTt3nAScjZzUR3NgACmb"
+  },
+  "c9be967cc8189469": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 2.0,
+    "beds": 2.0,
+    "description": "$1,199 - 2br - @@@Newly Renovated 2Bed/2Bath in the heart of Laurelhurst neighborhood (Portland, OR)",
+    "first_seen": "2026-08-27T12:26:06.134871+00:00",
+    "id": "c9be967cc8189469",
+    "location": "",
+    "price": 1199,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "@@@Newly Renovated 2Bed/2Bath in the heart of Laurelhurst neighborhood",
+    "url": "https://www.craigslist.org/view/d/portland-newly-renovated-2bed-2bath-in/bo4af4szNBpdv9TLJQmrrH"
   },
   "c9eabcf41259b12c": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
