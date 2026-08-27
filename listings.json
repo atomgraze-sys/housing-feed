@@ -853,6 +853,20 @@
     "title": "\u00f0\u009f\u008c\u00bf Gorgeous 3 Bed, 1.5 Bath Home | $1,275/mo | Portland, OR",
     "url": "https://www.craigslist.org/view/d/portland-gorgeous-bed-15-bath-home-mo/gag9z4HGCA2YroRic5cCoK"
   },
+  "46a67ac1657b461b": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 2.5,
+    "beds": 3.0,
+    "description": "$1,350 - 3br - 978ft 2 - *The home is a 3 bedroom 2.5 bathroom house* (Portland, OR)",
+    "first_seen": "2026-08-27T21:37:25.861598+00:00",
+    "id": "46a67ac1657b461b",
+    "location": "",
+    "price": 1350,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "*The home is a 3 bedroom 2.5 bathroom house*",
+    "url": "https://www.craigslist.org/view/d/portland-the-home-is-3-bedroom-25/pfXS9FCiaAsGk9sRfQH4Bn"
+  },
   "4705536d648eb818": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1244,20 +1258,6 @@
     "sqft": null,
     "title": "610 #2 Bottom level 2bed, off street parking, patio, dog friendly!",
     "url": "https://www.craigslist.org/view/d/portland-bottom-level-2bed-off-street/inXSBNcY3upCScUoZTHEws"
-  },
-  "69170a617af2753c": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-07-28T17:12:52.823217+00:00",
-    "id": "69170a617af2753c",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/22gwxckpy7ten"
   },
   "6951eae27e46fa7a": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2057,20 +2057,6 @@
     "title": "\u00f0\u009f\u0092\u00abThe home offers 2 bedrooms, 1 bathroom\u00f0\u009f\u0092\u00ab",
     "url": "https://www.craigslist.org/view/d/portland-the-home-offers-bedrooms/3Wi3NvjDCz4ZUGXyvBQtqn"
   },
-  "b9e3cd5079d6e7a4": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,051+/mo New! Total price 1 to 2 beds The Commons 5800 NE Center Commons Way,  Portland, OR 97213 Contact View listing",
-    "first_seen": "2026-07-28T17:12:52.823091+00:00",
-    "id": "b9e3cd5079d6e7a4",
-    "location": "",
-    "price": 1051,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,051+/mo New! Total price 1 to 2 beds The Commons 5800 NE Center Commons Way,",
-    "url": "https://hotpads.com/the-commons-portland-or-97213-skhgn6/pad"
-  },
   "bb9799d0502da278": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2336,6 +2322,20 @@
     "sqft": null,
     "title": "Amazing 3 bedroom, 1 bathroom house",
     "url": "https://www.craigslist.org/view/d/portland-amazing-bedroom-bathroom-house/5pRRn2QSHLCEnvvv4KwFLn"
+  },
+  "cc4d95cf26c3bb01": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,595 - 2br - 1100ft 2 - Convenient 2 bedroom apartment (2885 SE Francis ST)",
+    "first_seen": "2026-08-27T21:37:25.861678+00:00",
+    "id": "cc4d95cf26c3bb01",
+    "location": "",
+    "price": 1595,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Convenient 2 bedroom apartment",
+    "url": "https://www.craigslist.org/view/d/portland-convenient-bedroom-apartment/nrPwDgW1w9d7fJCnnN4Pf8"
   },
   "ccf51f20b7629186": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
