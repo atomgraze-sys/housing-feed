@@ -2099,6 +2099,20 @@
     "title": "\u00f0\u009f\u0092\u00abThe home offers 2 bedrooms, 1 bathroom\u00f0\u009f\u0092\u00ab",
     "url": "https://www.craigslist.org/view/d/portland-the-home-offers-bedrooms/3Wi3NvjDCz4ZUGXyvBQtqn"
   },
+  "bae21a93a3c3914b": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.5,
+    "beds": 2.0,
+    "description": "$1,000 - 2br - Updated 2 bedroom, 1.5 bathroom home (Portland, OR)",
+    "first_seen": "2026-08-30T07:59:48.229716+00:00",
+    "id": "bae21a93a3c3914b",
+    "location": "",
+    "price": 1000,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Updated 2 bedroom, 1.5 bathroom home",
+    "url": "https://www.craigslist.org/view/d/portland-updated-bedroom-15-bathroom/amdaeteEUTmFKemxTKh7PY"
+  },
   "bb9799d0502da278": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2490,6 +2504,20 @@
     "sqft": null,
     "title": "Public Notice of Rental \u00e2\u0080\u0093 (The Alexander)",
     "url": "https://www.craigslist.org/view/d/portland-public-notice-of-rental-the/hoyP7NVmfeZxuTiGLHnNi8"
+  },
+  "e1653d5c96a137a6": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,000 - 2br - Cometour this recently updated 2-bedroom, 1.5-bath (Portland, OR)",
+    "first_seen": "2026-08-30T07:59:48.229796+00:00",
+    "id": "e1653d5c96a137a6",
+    "location": "",
+    "price": 1000,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Cometour this recently updated 2-bedroom, 1.5-bath",
+    "url": "https://www.craigslist.org/view/d/portland-cometour-this-recently-updated/3nGb3H7YhD64KnmzdgP5hP"
   },
   "e321ba4b0a7f9fdc": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
