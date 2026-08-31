@@ -2085,6 +2085,20 @@
     "title": "\u00f0\u009f\u008f\u00a1 Gorgeous & Charming 3 Bed, 2 Bath | $1,195/mo | Portland, OR",
     "url": "https://www.craigslist.org/view/d/portland-gorgeous-charming-bed-bath-mo/rccTt3nAScjZzUR3NgACmb"
   },
+  "c9b4862cbcfb270e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,495 - 2br - 760ft 2 - Large two bedroom with huge balcony overlooking our courtyard! (Portland, Southeast, PDX, Powell, Mt Tabor)",
+    "first_seen": "2026-08-31T18:38:18.112828+00:00",
+    "id": "c9b4862cbcfb270e",
+    "location": "",
+    "price": 1495,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Large two bedroom with huge balcony overlooking our courtyard!",
+    "url": "https://www.craigslist.org/view/d/portland-large-two-bedroom-with-huge/qNW7wco6tD5F3SRhxd4XFf"
+  },
   "c9be967cc8189469": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 2.0,
@@ -2561,6 +2575,20 @@
     "title": "Wonderful 3 bedroom 1 bathroom house",
     "url": "https://www.craigslist.org/view/d/portland-wonderful-bedroom-bathroom/sU6KfuLDBcRgCzMwjTywuf"
   },
+  "f4c7556035dc3971": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,000 - 2br - Cometour this recently updated 2-bedroom, 1.5-bath (Portland, OR)",
+    "first_seen": "2026-08-31T18:38:18.112723+00:00",
+    "id": "f4c7556035dc3971",
+    "location": "",
+    "price": 1000,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Cometour this recently updated 2-bedroom, 1.5-bath",
+    "url": "https://www.craigslist.org/view/d/portland-cometour-this-recently-updated/uUjRKokD5ri2cpnV6vWcLX"
+  },
   "f4e708f5a448edb3": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 2.0,
@@ -2644,5 +2672,19 @@
     "sqft": null,
     "title": "610 #2 Bottom level 2bed, off street parking, patio, dog friendly!",
     "url": "https://www.craigslist.org/view/d/portland-bottom-level-2bed-off-street/gZkBNws98VTy5YfKNgHXkq"
+  },
+  "fd18528857e4647a": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,840 - 2br - 777ft 2 - Check out these views! You'll love this location and this 2 bd 1 ba! (Portland)",
+    "first_seen": "2026-08-31T18:38:18.112888+00:00",
+    "id": "fd18528857e4647a",
+    "location": "",
+    "price": 1840,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Check out these views! You'll love this location and this 2 bd 1 ba!",
+    "url": "https://www.craigslist.org/view/d/portland-check-out-these-views-youll/snKfuHJEoBGw8VSk37nkhi"
   }
 }
