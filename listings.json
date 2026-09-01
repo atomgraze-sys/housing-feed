@@ -1161,6 +1161,20 @@
     "title": "610 #2 Bottom level 2bed, off street parking, patio, dog friendly!",
     "url": "https://www.craigslist.org/view/d/portland-bottom-level-2bed-off-street/inXSBNcY3upCScUoZTHEws"
   },
+  "687283b69338ef8e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,840 - 2br - 777ft 2 - Beautiful 2 bed / 1 bath in a great neighborhood! Ready to view now! (Portland)",
+    "first_seen": "2026-09-01T23:44:13.318988+00:00",
+    "id": "687283b69338ef8e",
+    "location": "",
+    "price": 1840,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Beautiful 2 bed / 1 bath in a great neighborhood! Ready to view now!",
+    "url": "https://www.craigslist.org/view/d/portland-beautiful-bed-bath-in-great/8aRA88ttrFgaXmrxfaaHAy"
+  },
   "6951eae27e46fa7a": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1174,20 +1188,6 @@
     "sqft": null,
     "title": "Top Floor 2 Bedroom with Balcony + Parking!",
     "url": "https://www.craigslist.org/view/d/portland-top-floor-bedroom-with-balcony/7B5Th8z5k3nveWWtTjcWes"
-  },
-  "6bcd19d990343630": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-02T20:29:49.401146+00:00",
-    "id": "6bcd19d990343630",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/25zd3hnpt0jpm"
   },
   "6c7868d0f77f769b": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2490,6 +2490,20 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/2qbaaq58nbhy0"
+  },
+  "ed4857e94f04a990": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 2.0,
+    "beds": 2.0,
+    "description": "$1,054 - 2br - 1929ft 2 - Spacious 2 Bed, 2 Bath Single Family Home in Creston-Kenilworth (Portland, OR)",
+    "first_seen": "2026-09-01T23:44:13.319070+00:00",
+    "id": "ed4857e94f04a990",
+    "location": "",
+    "price": 1054,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Spacious 2 Bed, 2 Bath Single Family Home in Creston-Kenilworth",
+    "url": "https://www.craigslist.org/view/d/portland-spacious-bed-bath-single/o9PLFiaCqtvhmBaEPLoBRz"
   },
   "ed7dcb05abb41568": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
