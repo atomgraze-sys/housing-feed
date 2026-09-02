@@ -1903,6 +1903,20 @@
     "title": "\u00f0\u009f\u0092\u00abThe home offers 2 bedrooms, 1 bathroom\u00f0\u009f\u0092\u00ab",
     "url": "https://www.craigslist.org/view/d/portland-the-home-offers-bedrooms/3Wi3NvjDCz4ZUGXyvBQtqn"
   },
+  "b8f3e985d31efd8f": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,300 - 2br - Amazing Portland Location Spacious 2bd 1bath Basement Apartment (SE Portland)",
+    "first_seen": "2026-09-02T06:53:49.855003+00:00",
+    "id": "b8f3e985d31efd8f",
+    "location": "",
+    "price": 1300,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Amazing Portland Location Spacious 2bd 1bath Basement Apartment",
+    "url": "https://www.craigslist.org/view/d/portland-amazing-portland-location/ujy9fo7b416pXgoubmdiat"
+  },
   "bae21a93a3c3914b": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.5,
