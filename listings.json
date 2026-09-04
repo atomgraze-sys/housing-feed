@@ -321,6 +321,20 @@
     "title": "Large 2 bedroom Upper floor unit - North Tabor",
     "url": "https://www.craigslist.org/view/d/portland-large-bedroom-upper-floor-unit/du8oyvGYQxy4mQah5U2Ugb"
   },
+  "22a246fcdf288756": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-09-04T19:15:34.272392+00:00",
+    "id": "22a246fcdf288756",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/qqm1a0b3xrm3"
+  },
   "2721673ac1bb9ab7": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -1063,20 +1077,6 @@
     "title": "Charmin 2 BR/1 BA \u00e2\u0080\u0093 Portland, OR \u00e2\u0080\u0093Home For Rent at 511 NE Lawrence Ave",
     "url": "https://www.craigslist.org/view/d/portland-charmin-br-ba-portland-or-home/3DzDEarEvwmJedNCpMdm15"
   },
-  "6cac4b314179f60e": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,550 - 2br - 806ft 2 - Prepare Now for September Availability ~ Reserve a Two-Bed on Friday! (Portland, Creston-Kenilworth)",
-    "first_seen": "2026-08-05T17:13:10.181609+00:00",
-    "id": "6cac4b314179f60e",
-    "location": "",
-    "price": 1550,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Prepare Now for September Availability ~ Reserve a Two-Bed on Friday!",
-    "url": "https://www.craigslist.org/view/d/portland-prepare-now-for-september/mYyJVaAir39XmBLq4tTEmX"
-  },
   "6dcce83eccfae411": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -1259,6 +1259,20 @@
     "title": "Charming 3BR Home Near Hawthorne & Division \u00e2\u0080\u0093 Garage & Backyard",
     "url": "https://www.craigslist.org/view/d/portland-charming-3br-home-near/k3mQKvFjndPQr2tTSD7Uy5"
   },
+  "8038fd095250bb0d": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,200 - 2br - 700ft 2 - 2bedroom Lower Eastside SE 11th (Ladd's Addition)",
+    "first_seen": "2026-09-04T19:15:34.272523+00:00",
+    "id": "8038fd095250bb0d",
+    "location": "",
+    "price": 1200,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "2bedroom Lower Eastside SE 11th",
+    "url": "https://www.craigslist.org/view/d/portland-2bedroom-lower-eastside-se-11th/ifQusk4JqQnrkwYfoJM1dQ"
+  },
   "80e56803751acf49": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1398,6 +1412,20 @@
     "sqft": null,
     "title": "$1,441+/mo Total price 1 to 2 beds Axcess 15 Apartments 1500 NE 15th Ave,  Portl",
     "url": "https://hotpads.com/axcess-15-apartments-portland-or-97232-skf86t/pad"
+  },
+  "8c4510e444f6a35e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 3.0,
+    "description": "$1,610 - 3br - Welcome to 511 NE Lawrence Ave in Portland 3BR/1BA home for rent (Portland, OR)",
+    "first_seen": "2026-09-04T19:15:34.272577+00:00",
+    "id": "8c4510e444f6a35e",
+    "location": "",
+    "price": 1610,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Welcome to 511 NE Lawrence Ave in Portland 3BR/1BA home for rent",
+    "url": "https://www.craigslist.org/view/d/portland-welcome-to-511-ne-lawrence-ave/w77wbCKoksAx3EBPPnvGZe"
   },
   "8d6922ff14fbe8c5": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1608,6 +1636,20 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/56gq85fx4u2b8"
+  },
+  "a80e486522999e72": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,200 - 2br - 850ft 2 - Large 2 bedroom Upper floor unit - North Tabor (North Tabor)",
+    "first_seen": "2026-09-04T19:15:34.272468+00:00",
+    "id": "a80e486522999e72",
+    "location": "",
+    "price": 1200,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Large 2 bedroom Upper floor unit - North Tabor",
+    "url": "https://www.craigslist.org/view/d/portland-large-bedroom-upper-floor-unit/5AaP7NSfa4hRgMGq7fVj8v"
   },
   "aa91cbe705d0d542": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2378,20 +2420,6 @@
     "sqft": null,
     "title": "Live Steps From Parks! Modern 2 BR-Fitness & On-Site Laundry",
     "url": "https://www.craigslist.org/view/d/portland-live-steps-from-parks-modern/euEwdsXa59FdPuCL5sXydS"
-  },
-  "f05f644a2a8d8b23": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-05T17:13:10.181717+00:00",
-    "id": "f05f644a2a8d8b23",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/5118jjjtu6tpq"
   },
   "f3ac1550244676e1": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
