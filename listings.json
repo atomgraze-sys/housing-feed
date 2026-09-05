@@ -13,20 +13,6 @@
     "title": "This 2-bed, 1-bath Portland home",
     "url": "https://www.craigslist.org/view/d/portland-this-bed-bath-portland-home/ue8g8TVxyZq5zahdtpio7H"
   },
-  "05ab5b551e1bfe6d": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-06T07:49:20.896993+00:00",
-    "id": "05ab5b551e1bfe6d",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/2p67rqqmwrv47"
-  },
   "06136c6ff1d00f30": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -124,20 +110,6 @@
     "sqft": null,
     "title": "Rare 2 BR Gem-Covered Parking & Spacious Closets!",
     "url": "https://www.craigslist.org/view/d/portland-rare-br-gem-covered-parking/aYZD786SHH3WhwaFJ1wAZY"
-  },
-  "0fd99f82c4a0d691": {
-    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-06T07:49:20.897013+00:00",
-    "id": "0fd99f82c4a0d691",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/ykkkhmgctmu9"
   },
   "0fed0e83eef8213e": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
@@ -390,6 +362,20 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/tmztf6p0j6cs"
+  },
+  "299b84af0fec91f3": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 3.0,
+    "description": "$1,600 - 3br - 3BR/1BA \u00e2\u0080\u0093 $1600/mo \u00e2\u0080\u0093 511 NE Lawrence Ave \u00e2\u0080\u0093 House for Rent (Portland, OR)",
+    "first_seen": "2026-09-05T14:25:33.651973+00:00",
+    "id": "299b84af0fec91f3",
+    "location": "",
+    "price": 1600,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "3BR/1BA \u00e2\u0080\u0093 $1600/mo \u00e2\u0080\u0093 511 NE Lawrence Ave \u00e2\u0080\u0093 House for Rent",
+    "url": "https://www.craigslist.org/view/d/portland-3br-1ba-mo-511-ne-lawrence-ave/abGMCP62EAh8rMrbQP23yN"
   },
   "2c62a69511ea30b0": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1595,20 +1581,6 @@
     "title": "Inviting 2 BR-Near Lloyd District, Park Views, Must-See!",
     "url": "https://www.craigslist.org/view/d/portland-inviting-br-near-lloyd/5itb8MQxTGBLZpHvDhJGse"
   },
-  "a00dbd4deccb4d4d": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,519 - 2br - 804ft 2 - Rare 2 BR Gem-Covered Parking & Spacious Closets! (Buckman Neighborhood)",
-    "first_seen": "2026-08-06T07:49:20.896875+00:00",
-    "id": "a00dbd4deccb4d4d",
-    "location": "",
-    "price": 1519,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Rare 2 BR Gem-Covered Parking & Spacious Closets!",
-    "url": "https://www.craigslist.org/view/d/portland-rare-br-gem-covered-parking/jDzkCvfPAAW9wTgNw1HTs5"
-  },
   "a14b02a57215145e": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -1917,20 +1889,6 @@
     "title": "Switch to instant summary",
     "url": "https://hotpads.com/edit-search-frequency"
   },
-  "c70164e33b0411d8": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,895 - 2br - 900ft 2 - 610 #2 Bottom level 2bed, off street parking, patio, dog friendly! (Portland)",
-    "first_seen": "2026-08-06T07:49:20.896798+00:00",
-    "id": "c70164e33b0411d8",
-    "location": "",
-    "price": 1895,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "610 #2 Bottom level 2bed, off street parking, patio, dog friendly!",
-    "url": "https://www.craigslist.org/view/d/portland-bottom-level-2bed-off-street/mmUvxyucxhvULjcVcG2nBn"
-  },
   "c798e7a2ed2df291": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -2126,6 +2084,20 @@
     "sqft": null,
     "title": "Large 2 bedroom Upper floor unit - North Tabor",
     "url": "https://www.craigslist.org/view/d/portland-large-bedroom-upper-floor-unit/p1N4G3Qap8YucZNBAMrX1Q"
+  },
+  "d6ded28c3c6a684a": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 3.0,
+    "description": "$1,600 - 3br - 3BR/1BA \u00e2\u0080\u0093 $1600/mo \u00e2\u0080\u0093  511 NE Lawrence Ave \u00e2\u0080\u0093 House for Rent (Portland, OR)",
+    "first_seen": "2026-09-05T14:25:33.651863+00:00",
+    "id": "d6ded28c3c6a684a",
+    "location": "",
+    "price": 1600,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "3BR/1BA \u00e2\u0080\u0093 $1600/mo \u00e2\u0080\u0093  511 NE Lawrence Ave \u00e2\u0080\u0093 House for Rent",
+    "url": "https://www.craigslist.org/view/d/portland-3br-1ba-mo-511-ne-lawrence-ave/hV858CUmxRHUN5kYeYKYXU"
   },
   "d9407ea3a32aae00": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2490,20 +2462,6 @@
     "sqft": null,
     "title": "Beautiful renovated 2 Bed & 2 Bath in the heart",
     "url": "https://www.craigslist.org/view/d/portland-beautiful-renovated-bed-bath/nRFQnuupgQyJc2FZ7R4AHb"
-  },
-  "f690b7ac326642b0": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,285 - 2br - 790ft 2 - Top Floor 2 bed 1 bth + Off Street Parking + Near Reed and Woodstock! (Reed/SE Portland)",
-    "first_seen": "2026-08-06T07:49:20.896935+00:00",
-    "id": "f690b7ac326642b0",
-    "location": "",
-    "price": 1285,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Top Floor 2 bed 1 bth + Off Street Parking + Near Reed and Woodstock!",
-    "url": "https://www.craigslist.org/view/d/portland-top-floor-bed-bth-off-street/h5cy49UxyjSGigteLtNACi"
   },
   "fa18a3ca4be1522c": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
