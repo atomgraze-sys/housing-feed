@@ -8,63 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 23:29:44 +0000</lastBuildDate>
-    <item>
-      <title>$1,000/mo · 3bd — ð«The home offers 2 bedrooms, 1 bathroomð« [craigslist.org]</title>
-      <link>https://www.craigslist.org/view/d/portland-the-home-offers-bedrooms/3Wi3NvjDCz4ZUGXyvBQtqn</link>
-      <description>$1,000 - 3br - 1600ft 2 - ð«The home offers 2 bedrooms, 1 bathroomð« (Portland, OR)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-the-home-offers-bedrooms/3Wi3NvjDCz4ZUGXyvBQtqn"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">b7058454641d59f7</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy policy [hotpads.com]</title>
-      <link>https://hotpads.com/r/zcxr29jfjd89</link>
-      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/zcxr29jfjd89"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">8eedf2068e2f5072</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy policy [hotpads.com]</title>
-      <link>https://hotpads.com/r/3ce4gjnstczu2</link>
-      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/3ce4gjnstczu2"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">53f660417a79ccfb</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>$1,550/mo · 2bd — Wonderful two bedroom craftsman home in Montivilla [craigslist.org]</title>
-      <link>https://www.craigslist.org/view/d/portland-wonderful-two-bedroom/gbo43Hw6nKo1xHrXHALL39</link>
-      <description>$1,550 - 2br - Wonderful two bedroom craftsman home in Montivilla (Montivilla)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-wonderful-two-bedroom/gbo43Hw6nKo1xHrXHALL39"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">2c62a69511ea30b0</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>$1,519/mo · 2bd — Walkable 2 BR-Access to Fitness, Parks, &amp; Dining! [craigslist.org]</title>
-      <link>https://www.craigslist.org/view/d/portland-walkable-br-access-to-fitness/8D4Je6eUhQizSnG9Xhp1LE</link>
-      <description>$1,519 - 2br - 808ft 2 - Walkable 2 BR-Access to Fitness, Parks, &amp; Dining! (Buckman Neighborhood)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-walkable-br-access-to-fitness/8D4Je6eUhQizSnG9Xhp1LE"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">848b577ebb1e60d1</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>$2,000/mo · 2bd · 1ba — 2 Bed / 1 Bath Home Near Shopping and Dining [craigslist.org]</title>
-      <link>https://www.craigslist.org/view/d/portland-bed-bath-home-near-shopping/e2QSaqUjr1mBDnnWEKTp2C</link>
-      <description>$2,000 - 2br - 960ft 2 - 2 Bed / 1 Bath Home Near Shopping and Dining&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-bed-bath-home-near-shopping/e2QSaqUjr1mBDnnWEKTp2C"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">83d632db5a4251ee</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>$1,550/mo · 2bd — Two-Bedroom Home w/ Open Layout Coming in Sept ~ Apply Tomorrow! [craigslist.org]</title>
-      <link>https://www.craigslist.org/view/d/portland-two-bedroom-home-open-layout/wcXxfkBQZDLd1eJskPAqxS</link>
-      <description>$1,550 - 2br - 806ft 2 - Two-Bedroom Home w/ Open Layout Coming in Sept ~ Apply Tomorrow! (Portland, Creston-Kenilworth)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-two-bedroom-home-open-layout/wcXxfkBQZDLd1eJskPAqxS"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">38b36b8049a1f9a3</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy policy [hotpads.com]</title>
-      <link>https://hotpads.com/r/v69vzag17h76</link>
-      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/v69vzag17h76"&gt;View listing →&lt;/a&gt;</description>
-      <guid isPermaLink="false">0af98c1f6efdc747</guid>
-      <pubDate>Fri, 07 Aug 2026 05:01:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 06:55:55 +0000</lastBuildDate>
     <item>
       <title>Privacy policy [hotpads.com]</title>
       <link>https://hotpads.com/r/2c50scqbg5eeg</link>
@@ -1268,6 +1212,20 @@
       <description>$1,600 - 3br - 3BR/1BA â $1600/mo â 511 NE Lawrence Ave â House for Rent (Portland, OR)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-3br-1ba-mo-511-ne-lawrence-ave/abGMCP62EAh8rMrbQP23yN"&gt;View listing →&lt;/a&gt;</description>
       <guid isPermaLink="false">299b84af0fec91f3</guid>
       <pubDate>Sat, 05 Sep 2026 14:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,519/mo · 2bd — Unbeatable Location-2 BR w/ Free Bike Storage &amp; Pet-Friendly [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-unbeatable-location-br-free/aWT41DRT2U8y3PzDe5ZBJR</link>
+      <description>$1,519 - 2br - 808ft 2 - Unbeatable Location-2 BR w/ Free Bike Storage &amp; Pet-Friendly (Buckman Neighborhood)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-unbeatable-location-br-free/aWT41DRT2U8y3PzDe5ZBJR"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">1dc9104b6331b99e</guid>
+      <pubDate>Sun, 06 Sep 2026 06:55:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,995/mo · 2bd — Huge 2 bedroom, fireplace, w/d, in 1906 duplex in Lower Burnside nbrhd [craigslist.org]</title>
+      <link>https://www.craigslist.org/view/d/portland-huge-bedroom-fireplace-d-in/h1aSk7bELxav9rsPmTeDuX</link>
+      <description>$1,995 - 2br - 1100ft 2 - Huge 2 bedroom, fireplace, w/d, in 1906 duplex in Lower Burnside nbrhd (Portland - Lower Burnside)&lt;br&gt;&lt;a href="https://www.craigslist.org/view/d/portland-huge-bedroom-fireplace-d-in/h1aSk7bELxav9rsPmTeDuX"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">e2136edf5a87cb20</guid>
+      <pubDate>Sun, 06 Sep 2026 06:55:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
