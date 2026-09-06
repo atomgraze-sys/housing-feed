@@ -391,20 +391,6 @@
     "title": "$1,314+/mo Studio to 2 beds Modera Morrison 1130 SE Morrison St,  Portland, OR 9",
     "url": "https://hotpads.com/modera-morrison-portland-or-97214-249jmaa/pad"
   },
-  "2ef8be395292d92e": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,519 - 2br - 804ft 2 - Inviting 2 BR-Steps to TriMet, Covered Parking & More! (Buckman Neighborhood)",
-    "first_seen": "2026-08-07T19:56:00.116397+00:00",
-    "id": "2ef8be395292d92e",
-    "location": "",
-    "price": 1519,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Inviting 2 BR-Steps to TriMet, Covered Parking & More!",
-    "url": "https://www.craigslist.org/view/d/portland-inviting-br-steps-to-trimet/af4NLLHYb7RjRc3WfCNWri"
-  },
   "314a7d95b0d11288": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -825,20 +811,6 @@
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/2dqygr6pgabhd"
   },
-  "54ef46ff60320a2a": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-07T19:56:00.116223+00:00",
-    "id": "54ef46ff60320a2a",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/2c50scqbg5eeg"
-  },
   "55fe34deadfa57f7": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1020,6 +992,20 @@
     "sqft": null,
     "title": "Beautiful 2 bed / 1 bath in a great neighborhood! Ready to view now!",
     "url": "https://www.craigslist.org/view/d/portland-beautiful-bed-bath-in-great/8aRA88ttrFgaXmrxfaaHAy"
+  },
+  "68e1a3466d9c897c": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,519 - 2br - 804ft 2 - Inviting 2 BR-Near Lloyd District, Park Views, Must-See! (Buckman Neighborhood)",
+    "first_seen": "2026-09-06T23:24:46.581941+00:00",
+    "id": "68e1a3466d9c897c",
+    "location": "",
+    "price": 1519,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Inviting 2 BR-Near Lloyd District, Park Views, Must-See!",
+    "url": "https://www.craigslist.org/view/d/portland-inviting-br-near-lloyd/9hptgi36LNucz278N4TdBP"
   },
   "6951eae27e46fa7a": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
