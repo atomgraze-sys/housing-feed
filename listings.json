@@ -41,20 +41,6 @@
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/58jw34kqggqza"
   },
-  "09ea53a8752b6784": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-08T05:10:56.517836+00:00",
-    "id": "09ea53a8752b6784",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/5c0dwwmc0yv97"
-  },
   "0bfee769da15c06d": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -1077,6 +1063,20 @@
     "title": "\u00f0\u009f\u008c\u00b4 Summit View 3 Bed, 2.5 Bath Family Home | $1,475/mo | Portland OR",
     "url": "https://www.craigslist.org/view/d/portland-summit-view-bed-25-bath-family/rgtuvevYqkwMHq9wgqZuma"
   },
+  "71f7fd4062574440": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 4.0,
+    "description": "$1,025/mo New! 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
+    "first_seen": "2026-09-07T07:05:38.744777+00:00",
+    "id": "71f7fd4062574440",
+    "location": "",
+    "price": 1025,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,025/mo New! 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
+    "url": "https://hotpads.com/2804-se-41st-ave-portland-or-97202-vfswuh/pad"
+  },
   "76fca2406da3aebe": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1510,6 +1510,20 @@
     "sqft": null,
     "title": "$1,481+/mo New! Total price 1 to 2 beds Vercanta Riverfront 4949 S Landing Dr,",
     "url": "https://hotpads.com/vercanta-riverfront-portland-or-97239-249jm6u/pad"
+  },
+  "a449e755c696711f": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-09-07T07:05:38.744829+00:00",
+    "id": "a449e755c696711f",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/5bnejaz9h3k1f"
   },
   "a48ec2afc15b60e6": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
