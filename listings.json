@@ -657,20 +657,6 @@
     "title": "HotPads Android App",
     "url": "https://hotpads.com/mobile-apps/android"
   },
-  "4a1c90c0ee3eb650": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,519 - 2br - 804ft 2 - Rare 2 BR Gem-Covered Parking & Spacious Closets! (Buckman Neighborhood)",
-    "first_seen": "2026-08-09T23:04:35.413451+00:00",
-    "id": "4a1c90c0ee3eb650",
-    "location": "",
-    "price": 1519,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Rare 2 BR Gem-Covered Parking & Spacious Closets!",
-    "url": "https://www.craigslist.org/view/d/portland-rare-br-gem-covered-parking/fZzVNh8KQqdYXxfsjYoTA3"
-  },
   "4a5fffdb9ce10216": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -1707,6 +1693,20 @@
     "title": "****Spacious 2Bed 2Bath in the heart of Laurelhurst neighborhood!!!!!!",
     "url": "https://www.craigslist.org/view/d/portland-spacious-2bed-2bath-in-the/5jBNQMQUak5RQ3YeJ4H9zc"
   },
+  "bf2e87947fcf00b8": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,699 - 2br - 884ft 2 - Just Listed for October Availability ~ Reserve a Two-Bed TH on Friday! (Portland, Creston-Kenilworth)",
+    "first_seen": "2026-09-08T23:47:46.423631+00:00",
+    "id": "bf2e87947fcf00b8",
+    "location": "",
+    "price": 1699,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Just Listed for October Availability ~ Reserve a Two-Bed TH on Friday!",
+    "url": "https://www.craigslist.org/view/d/portland-just-listed-for-october/scJYxGAVbtYhMM11QHfunA"
+  },
   "c0ce8cce915aca83": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 1.0,
@@ -1930,20 +1930,6 @@
     "sqft": null,
     "title": "3BR/1BA \u00e2\u0080\u0093 $1600/mo \u00e2\u0080\u0093  511 NE Lawrence Ave \u00e2\u0080\u0093 House for Rent",
     "url": "https://www.craigslist.org/view/d/portland-3br-1ba-mo-511-ne-lawrence-ave/hV858CUmxRHUN5kYeYKYXU"
-  },
-  "d9407ea3a32aae00": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,750 - 2br - 1200ft 2 - Apartment above private house in Mt Tabor (Mt Tabor)",
-    "first_seen": "2026-08-09T23:04:35.413539+00:00",
-    "id": "d9407ea3a32aae00",
-    "location": "",
-    "price": 1750,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Apartment above private house in Mt Tabor",
-    "url": "https://www.craigslist.org/view/d/portland-apartment-above-private-house/q5XqX7aJkfbrQ89EjRgSab"
   },
   "da7cc2e9d7104abe": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
