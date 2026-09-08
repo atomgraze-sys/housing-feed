@@ -657,20 +657,6 @@
     "title": "HotPads Android App",
     "url": "https://hotpads.com/mobile-apps/android"
   },
-  "49484bee772e8006": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-09T05:30:14.064446+00:00",
-    "id": "49484bee772e8006",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/1n6bsc9bhjudb"
-  },
   "4a1c90c0ee3eb650": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -2364,6 +2350,20 @@
     "sqft": null,
     "title": "Fabulous Foster Powell 2 Bedroom",
     "url": "https://www.craigslist.org/view/d/portland-fabulous-foster-powell-bedroom/8UCSGFnEFXKVgNzAEhgPMQ"
+  },
+  "facaea2df26939ca": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,050 - 2br - *Welcome to this remodeled two-bedroom, one-bathroom** (Portland, OR)",
+    "first_seen": "2026-09-08T07:00:02.001098+00:00",
+    "id": "facaea2df26939ca",
+    "location": "",
+    "price": 1050,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "*Welcome to this remodeled two-bedroom, one-bathroom**",
+    "url": "https://www.craigslist.org/view/d/portland-welcome-to-this-remodeled-two/mkLnU8Ti3AtpoTrXkaLR2H"
   },
   "fccae90b975c9fea": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
