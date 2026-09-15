@@ -27,20 +27,6 @@
     "title": "Cometour this recently updated 2-bedroom, 1.5-bath",
     "url": "https://www.craigslist.org/view/d/portland-cometour-this-recently-updated/vYy1M8q6JufD46kcVJqEyh"
   },
-  "09db9a3dce83c020": {
-    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-15T22:51:51.370934+00:00",
-    "id": "09db9a3dce83c020",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/58jw34kqggqza"
-  },
   "0bfee769da15c06d": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -96,6 +82,20 @@
     "sqft": null,
     "title": "Prime Location Hawthorne/Belmont / Beautiful Single Level Duplex, Hard",
     "url": "https://www.craigslist.org/view/d/portland-prime-location-hawthorne/tzvs6hCC1GT9rC4zbEAehM"
+  },
+  "129c2f3013a6cadd": {
+    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-09-15T00:10:37.763598+00:00",
+    "id": "129c2f3013a6cadd",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/35p3yrvt1ve29"
   },
   "1308b5c54d42fef7": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -461,6 +461,20 @@
     "title": "2 bdrm - Inner SE - Laurelhurst Pk - Main Level - W&D on site",
     "url": "https://www.craigslist.org/view/d/portland-bdrm-inner-se-laurelhurst-pk/xyy5xwGU1VTjvP8XZPx8YT"
   },
+  "360c6ba4915fcb84": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,525 - 2br - 850ft 2 - Ready for immediate move in.  Huge 2 bedroom near Safeway, Trader Joes (Portland, Southeast, PDX, Powell, Mt Tabor)",
+    "first_seen": "2026-09-15T00:10:37.763934+00:00",
+    "id": "360c6ba4915fcb84",
+    "location": "",
+    "price": 1525,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Ready for immediate move in.  Huge 2 bedroom near Safeway, Trader Joes",
+    "url": "https://www.craigslist.org/view/d/portland-ready-for-immediate-move-in/3ZGK8dQqwnu46iSP98nT2r"
+  },
   "376ed7cb1f15d4f2": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -699,20 +713,6 @@
     "title": "808 Square Feet",
     "url": "https://www.craigslist.org/view/d/portland-808-square-feet/4n3GubeQdDBxyds3WDnPQo"
   },
-  "4748032e09f2353f": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,565+/mo New! 1 to 2 beds Osprey 3750 S River Pkwy,  Portland, OR 97239 Contact View listing",
-    "first_seen": "2026-08-15T17:43:02.271502+00:00",
-    "id": "4748032e09f2353f",
-    "location": "",
-    "price": 1565,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,565+/mo New! 1 to 2 beds Osprey 3750 S River Pkwy,  Portland, OR 97239 Contac",
-    "url": "https://hotpads.com/osprey-portland-or-97239-249jqd2/pad"
-  },
   "48ccf2cdb3e89f9b": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -754,6 +754,20 @@
     "sqft": null,
     "title": "HotPads Apple App",
     "url": "https://hotpads.com/mobile-apps/ios"
+  },
+  "4b82ab09bc369b40": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,765 - 2br - 777ft 2 - Check out these views! You'll love this location and this 2 bd 1 ba! (Portland)",
+    "first_seen": "2026-09-15T00:10:37.763743+00:00",
+    "id": "4b82ab09bc369b40",
+    "location": "",
+    "price": 1765,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Check out these views! You'll love this location and this 2 bd 1 ba!",
+    "url": "https://www.craigslist.org/view/d/portland-check-out-these-views-youll/hfKDFNn88yGEaikBq7Ynsy"
   },
   "4cea537343754da5": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
@@ -824,6 +838,20 @@
     "sqft": null,
     "title": "Rare 2 BR Gem-Covered Parking & Spacious Closets!",
     "url": "https://www.craigslist.org/view/d/portland-rare-br-gem-covered-parking/v3ty9LpLFJSNUAGFRnKx4g"
+  },
+  "522d0c9403924275": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,660 - 2br - 750ft 2 - Stylish 2-Bedroom Apt at Glencourt! Off-Street Parking! (4839 E Burnside St #13)",
+    "first_seen": "2026-09-15T00:10:37.764084+00:00",
+    "id": "522d0c9403924275",
+    "location": "",
+    "price": 1660,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Stylish 2-Bedroom Apt at Glencourt! Off-Street Parking!",
+    "url": "https://www.craigslist.org/view/d/portland-stylish-bedroom-apt-at/te3oZ5bRXxEr4dG833pJwn"
   },
   "54710c7db3f93a53": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
@@ -1091,20 +1119,6 @@
     "title": "Top Floor 2 Bedroom with Balcony + Parking!",
     "url": "https://www.craigslist.org/view/d/portland-top-floor-bedroom-with-balcony/7B5Th8z5k3nveWWtTjcWes"
   },
-  "6dcce83eccfae411": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-15T17:43:02.271535+00:00",
-    "id": "6dcce83eccfae411",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/3trk4sz0w3mqe"
-  },
   "719a7252878fe9d8": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": 2.5,
@@ -1300,6 +1314,20 @@
     "sqft": null,
     "title": "Close in Hawthorne and Division",
     "url": "https://www.craigslist.org/view/d/portland-close-in-hawthorne-and-division/_g7NjrWd8RG_7O-KeN_Rtg"
+  },
+  "81300dd471557e79": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,495 - 2br - 760ft 2 - Large two bedroom with huge balcony overlooking our courtyard! (Portland, Southeast, PDX, Powell, Mt Tabor)",
+    "first_seen": "2026-09-15T00:10:37.763842+00:00",
+    "id": "81300dd471557e79",
+    "location": "",
+    "price": 1495,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Large two bedroom with huge balcony overlooking our courtyard!",
+    "url": "https://www.craigslist.org/view/d/portland-large-two-bedroom-with-huge/4gghriY2vAfUsW52WzniLg"
   },
   "86972acb6489327e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1497,20 +1525,6 @@
     "title": "Where style meets substance: 2 BR homes up for grabs!",
     "url": "https://www.craigslist.org/view/d/portland-where-style-meets-substance-br/a7AJzejaZTTLzBzBg44nX3"
   },
-  "9f43388dfca9f3e7": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 1.0,
-    "beds": 3.0,
-    "description": "$1,650 - 3br - Welcome to 3BR/1BA \u00e2\u0080\u0094 Elegant City Living in 511 NE Lawrence Ave (Portland, OR)",
-    "first_seen": "2026-08-15T17:43:02.271289+00:00",
-    "id": "9f43388dfca9f3e7",
-    "location": "",
-    "price": 1650,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Welcome to 3BR/1BA \u00e2\u0080\u0094 Elegant City Living in 511 NE Lawrence Ave",
-    "url": "https://www.craigslist.org/view/d/portland-welcome-to-3br-1ba-elegant/riJY9rZrf4S4jcZvPdhS6K"
-  },
   "9f834c502928dd90": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1538,6 +1552,20 @@
     "sqft": null,
     "title": "$1,470+/mo New! Studio to 2 beds Skylar Grand 465 NE Davis St,  Portland, OR 972",
     "url": "https://hotpads.com/skylar-grand-portland-or-97232-24ey0mz/pad"
+  },
+  "a171e18b3d25dbed": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,699 - 2br - 884ft 2 - Accepting Online Applications ~ Reserve Your Next Two-Bedroom Today! (Portland, Creston-Kenilworth)",
+    "first_seen": "2026-09-15T00:10:37.764013+00:00",
+    "id": "a171e18b3d25dbed",
+    "location": "",
+    "price": 1699,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Accepting Online Applications ~ Reserve Your Next Two-Bedroom Today!",
+    "url": "https://www.craigslist.org/view/d/portland-accepting-online-applications/bE4utx7ZpTZvkuyAW5ckMT"
   },
   "a2014dd096763533": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
@@ -2225,20 +2253,6 @@
     "title": "Pet-Friendly 2 BR-Sun Terraces & Courtyard Oasis!",
     "url": "https://www.craigslist.org/view/d/portland-pet-friendly-br-sun-terraces/kkDb9CqJXBBA8dJpUoFp7S"
   },
-  "e485e18b0ba1ac6c": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 1.0,
-    "beds": 2.0,
-    "description": "$1,450 - 2br - Welcome to 2BR/1BA \u00e2\u0080\u0094 Elegant City Living in 2644 NE Buxton St (Portland, OR)",
-    "first_seen": "2026-08-15T17:43:02.271381+00:00",
-    "id": "e485e18b0ba1ac6c",
-    "location": "",
-    "price": 1450,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Welcome to 2BR/1BA \u00e2\u0080\u0094 Elegant City Living in 2644 NE Buxton St",
-    "url": "https://www.craigslist.org/view/d/portland-welcome-to-2br-1ba-elegant/fC7LRrhX619Yu7oKNxJdSm"
-  },
   "e5f251b7e7309c5b": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -2266,20 +2280,6 @@
     "sqft": null,
     "title": "## **++ Bright 2 Bedroom House With Pets allowed ++**",
     "url": "https://www.craigslist.org/view/d/portland-bright-bedroom-house-with-pets/xvAdVUfie8Hj31MH3BjngN"
-  },
-  "e6c5827fa87d186a": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 2.0,
-    "beds": 3.0,
-    "description": "$1,000 - 3br - 1300ft 2 - Introducing a charming 3 bed, 2 bath house (Portland, OR)",
-    "first_seen": "2026-08-15T22:51:51.371072+00:00",
-    "id": "e6c5827fa87d186a",
-    "location": "",
-    "price": 1000,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Introducing a charming 3 bed, 2 bath house",
-    "url": "https://www.craigslist.org/view/d/portland-introducing-charming-bed-bath/2kSJJy66mKSV5CbUWCQEjM"
   },
   "e89e6e21699cb137": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
