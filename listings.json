@@ -307,20 +307,6 @@
     "title": "GET $500 in SAVINGS - Popular Hawthorne District in Richmond",
     "url": "https://www.craigslist.org/view/d/portland-get-500-in-savings-popular/uX1mh75AzWFi5miD5XGqip"
   },
-  "292f44783d195820": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-17T18:00:53.875313+00:00",
-    "id": "292f44783d195820",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/5cwcxu024kr46"
-  },
   "298e879f0b616da6": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -670,6 +656,20 @@
     "sqft": null,
     "title": "Inviting 2 BR-Steps to TriMet, Covered Parking & More!",
     "url": "https://www.craigslist.org/view/d/portland-inviting-br-steps-to-trimet/4r2WYhpsebzUBoBpua6HZr"
+  },
+  "419061a91da6d104": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,519 - 2br - 808ft 2 - Pet-Friendly 2 BR-Walk to Parks, Dining & Fun! (Buckman Neighborhood)",
+    "first_seen": "2026-09-16T19:49:40.427595+00:00",
+    "id": "419061a91da6d104",
+    "location": "",
+    "price": 1519,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Pet-Friendly 2 BR-Walk to Parks, Dining & Fun!",
+    "url": "https://www.craigslist.org/view/d/portland-pet-friendly-br-walk-to-parks/pPUm7uLg1LWkuyqeUsdBPP"
   },
   "461aa8629e8d8c74": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -2350,6 +2350,20 @@
     "sqft": null,
     "title": "Cometour this recently updated 2-bedroom, 1.5-bath",
     "url": "https://www.craigslist.org/view/d/portland-cometour-this-recently-updated/3nGb3H7YhD64KnmzdgP5hP"
+  },
+  "e1cefe87ea31d342": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": null,
+    "beds": 2.0,
+    "description": "$1,699 - 2br - 884ft 2 - Spacious Two-Bedroom TH Coming in October ~ Reserve Online Today! (Portland, Creston-Kenilworth)",
+    "first_seen": "2026-09-16T19:49:40.427531+00:00",
+    "id": "e1cefe87ea31d342",
+    "location": "",
+    "price": 1699,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Spacious Two-Bedroom TH Coming in October ~ Reserve Online Today!",
+    "url": "https://www.craigslist.org/view/d/portland-spacious-two-bedroom-th-coming/iFz4AbFyyYCPNzW1eqZ9xB"
   },
   "e2136edf5a87cb20": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
