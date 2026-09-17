@@ -83,6 +83,20 @@
     "title": "Popular Hawthorne District in Richmond, Courtyard - Two Bedroom",
     "url": "https://www.craigslist.org/view/d/portland-popular-hawthorne-district-in/p7kQXibuY34nxAoP8HMkVz"
   },
+  "13a2ac9015c7a19e": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,765 - 2br - 777ft 2 - Central location in Portland. 2 Bed, 1 Bath! Stop by for a tour! (Portland)",
+    "first_seen": "2026-09-17T19:58:01.174944+00:00",
+    "id": "13a2ac9015c7a19e",
+    "location": "",
+    "price": 1765,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Central location in Portland. 2 Bed, 1 Bath! Stop by for a tour!",
+    "url": "https://www.craigslist.org/view/d/portland-central-location-in-portland/ppAiK4DnmwWwJ61xufmZqX"
+  },
   "146ef8f12fb0cca3": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1035,20 +1049,6 @@
     "title": "Modern 2 BR-Laundry, Bike Storage & More-Very Limited!",
     "url": "https://www.craigslist.org/view/d/portland-modern-br-laundry-bike-storage/oVaqeotb7PHNrECMqdVBBG"
   },
-  "6463362920127b36": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,495 - 2br - 700ft 2 - 2bedroom Lower Eastside SE 11th (Ladd's Addition)",
-    "first_seen": "2026-08-18T17:58:24.810052+00:00",
-    "id": "6463362920127b36",
-    "location": "",
-    "price": 1495,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "2bedroom Lower Eastside SE 11th",
-    "url": "https://www.craigslist.org/view/d/portland-2bedroom-lower-eastside-se-11th/pPHYcXE8HZWmQjQWvbZkLT"
-  },
   "64b5c73ee91cb8c6": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
@@ -1370,6 +1370,20 @@
     "sqft": null,
     "title": "Welcome to 511 NE Lawrence Ave in Portland 3BR/1BA home for rent",
     "url": "https://www.craigslist.org/view/d/portland-welcome-to-511-ne-lawrence-ave/w77wbCKoksAx3EBPPnvGZe"
+  },
+  "8c6e8b1e69fb0d92": {
+    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
+    "baths": 1.0,
+    "beds": 2.0,
+    "description": "$1,880 - 2br - 878ft 2 - Spacious and beautiful. Consider your new 2 bed / 1 bath found! (Portland)",
+    "first_seen": "2026-09-17T19:58:01.175063+00:00",
+    "id": "8c6e8b1e69fb0d92",
+    "location": "",
+    "price": 1880,
+    "source": "craigslist.org",
+    "sqft": null,
+    "title": "Spacious and beautiful. Consider your new 2 bed / 1 bath found!",
+    "url": "https://www.craigslist.org/view/d/portland-spacious-and-beautiful/4ARitaEcWLcAR2wNR1QqGV"
   },
   "8d6922ff14fbe8c5": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
