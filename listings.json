@@ -1,18 +1,4 @@
 {
-  "04cd186ab2a047ca": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,350 - 2br - This 2-bed, 1-bath Portland home (Portland, OR)",
-    "first_seen": "2026-08-24T17:25:47.894108+00:00",
-    "id": "04cd186ab2a047ca",
-    "location": "",
-    "price": 1350,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "This 2-bed, 1-bath Portland home",
-    "url": "https://www.craigslist.org/view/d/portland-this-bed-bath-portland-home/ue8g8TVxyZq5zahdtpio7H"
-  },
   "06136c6ff1d00f30": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -950,20 +936,6 @@
     "sqft": null,
     "title": "$1,072+/mo New! Total price Studio to 2 beds Sullivan's Ridge 1710 NE Multnomah",
     "url": "https://hotpads.com/sullivans-ridge-portland-or-97232-249jdch/pad"
-  },
-  "7e31710bfe394af5": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,895 - 2br - Kerns 2-Bed w/Upscale Finishes Throughout! (Kerns)",
-    "first_seen": "2026-08-24T17:25:47.894180+00:00",
-    "id": "7e31710bfe394af5",
-    "location": "",
-    "price": 1895,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Kerns 2-Bed w/Upscale Finishes Throughout!",
-    "url": "https://www.craigslist.org/view/d/portland-kerns-bed-upscale-finishes/gDLE7SzEHSyoCfP4L4e2A7"
   },
   "7e6d1cf58ad4d730": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
