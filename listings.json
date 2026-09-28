@@ -1,18 +1,4 @@
 {
-  "06136c6ff1d00f30": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,000 - 2br - Cometour this recently updated 2-bedroom, 1.5-bath (Portland, OR)",
-    "first_seen": "2026-08-29T08:42:50.321090+00:00",
-    "id": "06136c6ff1d00f30",
-    "location": "",
-    "price": 1000,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Cometour this recently updated 2-bedroom, 1.5-bath",
-    "url": "https://www.craigslist.org/view/d/portland-cometour-this-recently-updated/vYy1M8q6JufD46kcVJqEyh"
-  },
   "0bfee769da15c06d": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
