@@ -1,18 +1,4 @@
 {
-  "0bfee769da15c06d": {
-    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-29T23:50:26.812873+00:00",
-    "id": "0bfee769da15c06d",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/49t1m9zyvdb8j"
-  },
   "0f04b97547ffb82a": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -279,20 +265,6 @@
     "title": "Ready for immediate move in.  Huge 2 bedroom near Safeway, Trader Joes",
     "url": "https://www.craigslist.org/view/d/portland-ready-for-immediate-move-in/3ZGK8dQqwnu46iSP98nT2r"
   },
-  "376ed7cb1f15d4f2": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,457+/mo Studio to 2 beds Modera Belmont 685 SE Belmont St,  Portland, OR 97214 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199556+00:00",
-    "id": "376ed7cb1f15d4f2",
-    "location": "",
-    "price": 1457,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,457+/mo Studio to 2 beds Modera Belmont 685 SE Belmont St,  Portland, OR 9721",
-    "url": "https://hotpads.com/modera-belmont-portland-or-97214-247q37c/pad"
-  },
   "38fab7f1f73eba27": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -447,20 +419,6 @@
     "title": "Check out these views! You'll love this location and this 2 bd 1 ba!",
     "url": "https://www.craigslist.org/view/d/portland-check-out-these-views-youll/hfKDFNn88yGEaikBq7Ynsy"
   },
-  "4cea537343754da5": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,345+/mo New! Total price Studio to 2 beds Laurel 42 4242 NE Halsey St,  Portland, OR 97213 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199599+00:00",
-    "id": "4cea537343754da5",
-    "location": "",
-    "price": 1345,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,345+/mo New! Total price Studio to 2 beds Laurel 42 4242 NE Halsey St,  Portl",
-    "url": "https://hotpads.com/laurel-42-portland-or-97213-249j0q1/pad"
-  },
   "5045482fc2854c5d": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -502,20 +460,6 @@
     "sqft": null,
     "title": "Stylish 2-Bedroom Apt at Glencourt! Off-Street Parking!",
     "url": "https://www.craigslist.org/view/d/portland-stylish-bedroom-apt-at/te3oZ5bRXxEr4dG833pJwn"
-  },
-  "54710c7db3f93a53": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,535+/mo New! Total price Studio to 2 beds Holloway 2050 NE Pacific St,  Portland, OR 97232 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199393+00:00",
-    "id": "54710c7db3f93a53",
-    "location": "",
-    "price": 1535,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,535+/mo New! Total price Studio to 2 beds Holloway 2050 NE Pacific St,  Portl",
-    "url": "https://hotpads.com/holloway-portland-or-97232-24e3c9v/pad"
   },
   "558c67804bfb620d": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -768,20 +712,6 @@
     "sqft": null,
     "title": "SAVE $500 - Ample Parking - Hardwood Flooring + Pet Friendly",
     "url": "https://www.craigslist.org/view/d/portland-save-ample-parking-hardwood/rmd78oxipQ6ivauwxjZQ6d"
-  },
-  "87933128572fca83": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,260+/mo New! Studio to 2 beds Cadence 2005 N Williams Ave,  Portland, OR 97227 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199320+00:00",
-    "id": "87933128572fca83",
-    "location": "",
-    "price": 1260,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,260+/mo New! Studio to 2 beds Cadence 2005 N Williams Ave,  Portland, OR 9722",
-    "url": "https://hotpads.com/cadence-portland-or-97227-249hwc2/pad"
   },
   "8c4510e444f6a35e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
@@ -1189,20 +1119,6 @@
     "title": "1ST MONTH w $500 OFF+ Stylish 2 Bedroom + On-site Laundry Facilities",
     "url": "https://www.craigslist.org/view/d/portland-1st-month-500-off-stylish/ddrBVtunZS6EoXVMoyS5gs"
   },
-  "c7f34e39df0e6310": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,509+/mo New! Total price Studio to 2 beds The Dylan 3883 S Moody Ave,  Portland, OR 97239 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199480+00:00",
-    "id": "c7f34e39df0e6310",
-    "location": "",
-    "price": 1509,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,509+/mo New! Total price Studio to 2 beds The Dylan 3883 S Moody Ave,  Portla",
-    "url": "https://hotpads.com/the-dylan-portland-or-97239-249jsna/pad"
-  },
   "c9b4862cbcfb270e": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1441,20 +1357,6 @@
     "title": "Huge 2 bedroom, fireplace, w/d, in 1906 duplex in Lower Burnside nbrhd",
     "url": "https://www.craigslist.org/view/d/portland-huge-bedroom-fireplace-d-in/h1aSk7bELxav9rsPmTeDuX"
   },
-  "e5f251b7e7309c5b": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-08-29T19:35:30.199619+00:00",
-    "id": "e5f251b7e7309c5b",
-    "location": "",
-    "price": null,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/4x3w0cfm00bfc"
-  },
   "e954c2c9990da4e1": {
     "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
     "baths": null,
@@ -1510,34 +1412,6 @@
     "sqft": null,
     "title": "Spacious 2 Bed, 2 Bath Single Family Home in Creston-Kenilworth",
     "url": "https://www.craigslist.org/view/d/portland-spacious-bed-bath-single/o9PLFiaCqtvhmBaEPLoBRz"
-  },
-  "ed7dcb05abb41568": {
-    "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,306+/mo New! Studio to 2 beds Cook Street 107 N Cook St,  Portland, OR 97227 Contact View listing",
-    "first_seen": "2026-08-29T19:35:30.199438+00:00",
-    "id": "ed7dcb05abb41568",
-    "location": "",
-    "price": 1306,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,306+/mo New! Studio to 2 beds Cook Street 107 N Cook St,  Portland, OR 97227",
-    "url": "https://hotpads.com/cook-street-portland-or-97227-1pke61c/pad"
-  },
-  "ee9fca28c94228fa": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 2.0,
-    "beds": 2.0,
-    "description": "$1,595 - 2br - 2 BR/2 BA Portland, OR \u00e2\u0080\u0093 $1595/mo \u00e2\u0080\u0093house for Rent \u00e2\u0080\u0093 Vacant & Ready! (Portland, OR)",
-    "first_seen": "2026-08-29T19:35:30.199669+00:00",
-    "id": "ee9fca28c94228fa",
-    "location": "",
-    "price": 1595,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "2 BR/2 BA Portland, OR \u00e2\u0080\u0093 $1595/mo \u00e2\u0080\u0093house for Rent \u00e2\u0080\u0093 Vacant & Ready!",
-    "url": "https://www.craigslist.org/view/d/portland-br-ba-portland-or-mo-house-for/eQrhJvsEZEhuWqTSQZZoHG"
   },
   "efda48d54f305d5f": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
