@@ -195,20 +195,6 @@
     "title": "Unsubscribe",
     "url": "https://hotpads.com/unsubscribe/searches"
   },
-  "c45af64bda4dd27f": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,995 - 2br - 1100ft 2 - Huge 2 bedroom, fireplace, w/d, in 1906 duplex in Lower Burnside nbrhd (Portland - Lower Burnside)",
-    "first_seen": "2026-09-17T07:17:34.306727+00:00",
-    "id": "c45af64bda4dd27f",
-    "location": "",
-    "price": 1995,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Huge 2 bedroom, fireplace, w/d, in 1906 duplex in Lower Burnside nbrhd",
-    "url": "https://www.craigslist.org/view/d/portland-huge-bedroom-fireplace-d-in/q2hvoqkmzx1SdqNGDMzrbA"
-  },
   "c7f34e39df0e6310": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -237,20 +223,6 @@
     "title": "See similar homes",
     "url": "https://hotpads.com/portland-or/apartments-for-rent"
   },
-  "e07c46b2c46b378a": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,519 - 2br - 804ft 2 - Cozy 2 BR-Chic Breakfast Bar & Landscaped Courtyard Vibes (Buckman Neighborhood)",
-    "first_seen": "2026-09-17T07:17:34.306578+00:00",
-    "id": "e07c46b2c46b378a",
-    "location": "",
-    "price": 1519,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Cozy 2 BR-Chic Breakfast Bar & Landscaped Courtyard Vibes",
-    "url": "https://www.craigslist.org/view/d/portland-cozy-br-chic-breakfast-bar/nPmRx2sNuxxYYG2kG4kSXJ"
-  },
   "ed7dcb05abb41568": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -278,19 +250,5 @@
     "sqft": null,
     "title": "Privacy policy",
     "url": "https://hotpads.com/r/zf51vnk444ag"
-  },
-  "f68af995850bc8b3": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": null,
-    "beds": 2.0,
-    "description": "$1,850 - 2br - Gateway To Accessibility! Prime Location @ Eastside 101! (SE Portland, Cesar Chavez, Laurelhurst)",
-    "first_seen": "2026-09-17T07:17:34.306673+00:00",
-    "id": "f68af995850bc8b3",
-    "location": "",
-    "price": 1850,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Gateway To Accessibility! Prime Location @ Eastside 101!",
-    "url": "https://www.craigslist.org/view/d/portland-gateway-to-accessibility-prime/kCqsfKswrgvLUGR3Co1p6w"
   }
 }
