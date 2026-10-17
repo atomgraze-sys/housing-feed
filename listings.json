@@ -1,18 +1,4 @@
 {
-  "13a2ac9015c7a19e": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 1.0,
-    "beds": 2.0,
-    "description": "$1,765 - 2br - 777ft 2 - Central location in Portland. 2 Bed, 1 Bath! Stop by for a tour! (Portland)",
-    "first_seen": "2026-09-17T19:58:01.174944+00:00",
-    "id": "13a2ac9015c7a19e",
-    "location": "",
-    "price": 1765,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Central location in Portland. 2 Bed, 1 Bath! Stop by for a tour!",
-    "url": "https://www.craigslist.org/view/d/portland-central-location-in-portland/ppAiK4DnmwWwJ61xufmZqX"
-  },
   "2e2ceeaaeaa512c0": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -124,20 +110,6 @@
     "sqft": null,
     "title": "$1,562+/mo New! Total price 1 to 2 beds Axcess 15 Apartments 1500 NE 15th Ave,",
     "url": "https://hotpads.com/axcess-15-apartments-portland-or-97232-skf86t/pad"
-  },
-  "8c6e8b1e69fb0d92": {
-    "_via": "\"CL Search Alerts\" <alerts@alerts.craigslist.org>",
-    "baths": 1.0,
-    "beds": 2.0,
-    "description": "$1,880 - 2br - 878ft 2 - Spacious and beautiful. Consider your new 2 bed / 1 bath found! (Portland)",
-    "first_seen": "2026-09-17T19:58:01.175063+00:00",
-    "id": "8c6e8b1e69fb0d92",
-    "location": "",
-    "price": 1880,
-    "source": "craigslist.org",
-    "sqft": null,
-    "title": "Spacious and beautiful. Consider your new 2 bed / 1 bath found!",
-    "url": "https://www.craigslist.org/view/d/portland-spacious-and-beautiful/4ARitaEcWLcAR2wNR1QqGV"
   },
   "a14b02a57215145e": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
