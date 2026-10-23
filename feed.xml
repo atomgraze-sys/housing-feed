@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:06:03 +0000</lastBuildDate>
     <item>
       <title>$1,562/mo · 2bd — $1,562+/mo New! Total price 1 to 2 beds Axcess 15 Apartments 1500 NE 15th Ave, [hotpads.com]</title>
       <link>https://hotpads.com/axcess-15-apartments-portland-or-97232-skf86t/pad</link>
@@ -106,6 +106,34 @@
       <description>Unsubscribe&lt;br&gt;&lt;a href="https://hotpads.com/unsubscribe/searches"&gt;View listing →&lt;/a&gt;</description>
       <guid isPermaLink="false">b4f42d914b864571</guid>
       <pubDate>Thu, 15 Oct 2026 00:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>$1,025/mo · 4bd — $1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing [hotpads.com]</title>
+      <link>https://hotpads.com/2804-se-41st-ave-portland-or-97202-vfswuh/pad</link>
+      <description>$1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing&lt;br&gt;&lt;a href="https://hotpads.com/2804-se-41st-ave-portland-or-97202-vfswuh/pad"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">71f7fd4062574440</guid>
+      <pubDate>Fri, 23 Oct 2026 07:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>See all homes [hotpads.com]</title>
+      <link>https://hotpads.com/portland-or</link>
+      <description>See all homes&lt;br&gt;&lt;a href="https://hotpads.com/portland-or"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">098cdbd802586400</guid>
+      <pubDate>Fri, 23 Oct 2026 07:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy policy [hotpads.com]</title>
+      <link>https://hotpads.com/r/2k1wayc0mjrxa</link>
+      <description>Privacy policy&lt;br&gt;&lt;a href="https://hotpads.com/r/2k1wayc0mjrxa"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">4bdd00a64b89849c</guid>
+      <pubDate>Fri, 23 Oct 2026 07:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unsubscribe [hotpads.com]</title>
+      <link>https://hotpads.com/edit-search-frequency</link>
+      <description>Unsubscribe&lt;br&gt;&lt;a href="https://hotpads.com/edit-search-frequency"&gt;View listing →&lt;/a&gt;</description>
+      <guid isPermaLink="false">c36f4a00df955580</guid>
+      <pubDate>Fri, 23 Oct 2026 07:06:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

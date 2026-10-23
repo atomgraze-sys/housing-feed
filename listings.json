@@ -1,4 +1,18 @@
 {
+  "098cdbd802586400": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "See all homes",
+    "first_seen": "2026-10-23T07:06:03.730099+00:00",
+    "id": "098cdbd802586400",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "See all homes",
+    "url": "https://hotpads.com/portland-or"
+  },
   "2e2ceeaaeaa512c0": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -41,6 +55,20 @@
     "title": "HotPads Apple App",
     "url": "https://hotpads.com/mobile-apps/ios"
   },
+  "4bdd00a64b89849c": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Privacy policy",
+    "first_seen": "2026-10-23T07:06:03.730133+00:00",
+    "id": "4bdd00a64b89849c",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/2k1wayc0mjrxa"
+  },
   "4cea537343754da5": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
     "baths": null,
@@ -68,6 +96,20 @@
     "sqft": null,
     "title": "$1,399+/mo New! Total price Studio to 2 beds Holloway 2050 NE Pacific St,  Portl",
     "url": "https://hotpads.com/holloway-portland-or-97232-24e3c9v/pad"
+  },
+  "71f7fd4062574440": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": 4.0,
+    "description": "$1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
+    "first_seen": "2026-10-23T07:06:03.730041+00:00",
+    "id": "71f7fd4062574440",
+    "location": "",
+    "price": 1025,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "$1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
+    "url": "https://hotpads.com/2804-se-41st-ave-portland-or-97202-vfswuh/pad"
   },
   "87933128572fca83": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
@@ -152,6 +194,20 @@
     "sqft": null,
     "title": "Unsubscribe",
     "url": "https://hotpads.com/unsubscribe/searches"
+  },
+  "c36f4a00df955580": {
+    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
+    "baths": null,
+    "beds": null,
+    "description": "Unsubscribe",
+    "first_seen": "2026-10-23T07:06:03.730163+00:00",
+    "id": "c36f4a00df955580",
+    "location": "",
+    "price": null,
+    "source": "hotpads.com",
+    "sqft": null,
+    "title": "Unsubscribe",
+    "url": "https://hotpads.com/edit-search-frequency"
   },
   "c7f34e39df0e6310": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
