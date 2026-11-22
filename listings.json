@@ -1,45 +1,31 @@
 {
-  "098cdbd802586400": {
+  "48de3e21048f4320": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
     "beds": null,
-    "description": "See all homes",
-    "first_seen": "2026-10-23T07:06:03.730099+00:00",
-    "id": "098cdbd802586400",
+    "description": "",
+    "first_seen": "2026-11-22T09:27:51.341722+00:00",
+    "id": "48de3e21048f4320",
     "location": "",
     "price": null,
     "source": "hotpads.com",
     "sqft": null,
-    "title": "See all homes",
-    "url": "https://hotpads.com/portland-or"
+    "title": "HotPads Android App",
+    "url": "https://hotpads.com/mobile-apps/android"
   },
-  "4bdd00a64b89849c": {
+  "4a5fffdb9ce10216": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
     "beds": null,
-    "description": "Privacy policy",
-    "first_seen": "2026-10-23T07:06:03.730133+00:00",
-    "id": "4bdd00a64b89849c",
+    "description": "",
+    "first_seen": "2026-11-22T09:27:51.341760+00:00",
+    "id": "4a5fffdb9ce10216",
     "location": "",
     "price": null,
     "source": "hotpads.com",
     "sqft": null,
-    "title": "Privacy policy",
-    "url": "https://hotpads.com/r/2k1wayc0mjrxa"
-  },
-  "71f7fd4062574440": {
-    "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
-    "baths": null,
-    "beds": 4.0,
-    "description": "$1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
-    "first_seen": "2026-10-23T07:06:03.730041+00:00",
-    "id": "71f7fd4062574440",
-    "location": "",
-    "price": 1025,
-    "source": "hotpads.com",
-    "sqft": null,
-    "title": "$1,025/mo 4 beds 2804 SE 41st Ave Portland, OR 97202 Contact View listing",
-    "url": "https://hotpads.com/2804-se-41st-ave-portland-or-97202-vfswuh/pad"
+    "title": "HotPads Apple App",
+    "url": "https://hotpads.com/mobile-apps/ios"
   },
   "8b2c6fb636714190": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
@@ -55,19 +41,19 @@
     "title": "$1,495+/mo Total price 1 to 2 beds The Linden 1250 E Burnside St,  Portland, OR",
     "url": "https://hotpads.com/the-linden-portland-or-97214-sktrzs/pad"
   },
-  "c36f4a00df955580": {
+  "d416c102d732ab29": {
     "_via": "\"HotPads\" <searches@alerts.hotpads.com>",
     "baths": null,
     "beds": null,
-    "description": "Unsubscribe",
-    "first_seen": "2026-10-23T07:06:03.730163+00:00",
-    "id": "c36f4a00df955580",
+    "description": "Privacy policy",
+    "first_seen": "2026-11-22T09:27:51.341776+00:00",
+    "id": "d416c102d732ab29",
     "location": "",
     "price": null,
     "source": "hotpads.com",
     "sqft": null,
-    "title": "Unsubscribe",
-    "url": "https://hotpads.com/edit-search-frequency"
+    "title": "Privacy policy",
+    "url": "https://hotpads.com/r/338dp0uexe48r"
   },
   "fa83612bb459a32a": {
     "_via": "\"HotPads\" <recommended-pads@alerts.hotpads.com>",
